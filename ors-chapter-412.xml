@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ORS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-412"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-412"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#oregon-legislature"/>
+          <FRBRcountry value="us-or"/>
+          <FRBRnumber value="412"/>
+          <FRBRname value="ORS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-412/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-412/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-412/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-412/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="oregon-legislature" href="https://www.oregonlegislature.gov" showAs="Oregon State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_412">
+        <num>412</num>
+        <heading>Financial Assistance and Grants to Clients</heading>
+        <section eId="sec_412-001">
+          <num>412.001</num>
+          <heading>Definitions</heading>
+          <subsection eId="412-001__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Aid” means money payments with respect to, or on behalf of, a dependent child
+or children and includes:</p>
+            </content>
+            <paragraph eId="412-001__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Money payments to meet the needs of the caretaker relative with whom the child
+is living and the spouse of the caretaker relative if the spouse lives with the
+caretaker relative; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-001__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Payments made to a representative payee or guardian pursuant to ORS 412.026 or
+412.028.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-001__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Caretaker relative” means a dependent child’s parent or other relative by
+blood, marriage or adoption, as defined by the Department of Human Services by
+rule, who lives in a residence maintained by one or more of the relatives as
+the child’s or the relative’s own home.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-001__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="412-001__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>“Dependent child” means a needy child:</p>
+              </content>
+              <subparagraph eId="412-001__subsec_3__subsec_a__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Whose caretaker relatives are not able to provide adequate care and support for
+the child without public assistance, as defined in ORS 411.010;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-001__subsec_3__subsec_a__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Who lives with a caretaker relative; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-001__subsec_3__subsec_a__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Who meets the requirements of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="412-001__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-001__subsec_3__subsec_b">
+              <num>(b)</num>
+              <subparagraph eId="412-001__subsec_3__subsec_b__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Except as provided in subparagraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-001__subsec_3__subsec_b__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-001__subsec_3__subsec_b__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>of this paragraph, a “dependent
+child” must be under the age of 18 years.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-001__subsec_3__subsec_b__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>A child may qualify as a “dependent child,” subject to the availability of
+funds, if the child is 18 or 19 or 20 years of age and a student regularly
+attending a school in grade 12 or below or regularly attending a course of
+professional or technical training designed to fit the child for gainful
+employment, other than a course provided by or through a college or university.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-001__subsec_3__subsec_b__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Students under the age of 21 years and regularly attending a school, college or
+university or regularly attending a course of professional or technical
+training designed to fit the child for gainful employment may be included in
+the description in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-001__subsec_3__subsec_b__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>of this paragraph at the option of the
+Department of Human Services.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-001__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Federally required participation rates” means the participation rates as
+required by section 407 of the Social Security Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-001__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Representative payee” means an individual designated by the department to
+receive money payments of aid pursuant to ORS 412.026. [Formerly 418.035; 2015
+c.765 s10]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-002">
+          <num>412.002</num>
+          <heading>Legislative findings</heading>
+          <subsection eId="412-002__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Legislative Assembly finds that:</p>
+            </content>
+            <paragraph eId="412-002__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The temporary assistance for needy families program is the state’s primary
+safety net for families with children who live in extreme poverty; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-002__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Outcomes for disadvantaged parenting youth improve when the parenting youth
+have opportunities to connect to employment, training and education programs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-002__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In order to provide a path out of poverty for families, adults and parenting
+youth and to maximize the services available to assist families, adults and
+parenting youth in moving out of poverty, the Department of Human Services
+shall work with other agencies and organizations to provide the resources,
+referrals or services described in ORS 412.006. [2015 c.765 s1; 2019 c.602 s1]
+Note: 412.002 was added
+to and made a part of 412.001 to 412.161 by legislative action but was not
+added to any smaller series therein. See Preface to Oregon Revised Statutes for
+further explanation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-006">
+          <num>412.006</num>
+          <heading>Administration of temporary assistance for needy families program; rules</heading>
+          <subsection eId="412-006__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The
+Department of Human Services shall administer the temporary assistance for
+needy families program, consistent with the requirements in 45 C.F.R. part 260,
+to provide to families with children:</p>
+            </content>
+            <paragraph eId="412-006__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Aid;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-006__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Case management services that focus on the strengths of the parents or
+caretaker relatives;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-006__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Resources and referrals for education and training or education or training
+services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-006__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Work and work preparation services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-006__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Resources, referrals or services to improve the family’s economic stability,
+including but not limited to:</p>
+              </content>
+              <subparagraph eId="412-006__subsec_1__subsec_e__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Mental health and addiction treatment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-006__subsec_1__subsec_e__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Housing; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-006__subsec_1__subsec_e__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Child care.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-006__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall adopt rules to carry out the provisions of this section. [Formerly
+418.040; 2009 c.11 s53; 2015 c.765 s11; 2019 c.602 s2]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-007">
+          <num>412.007</num>
+          <heading>Determination of amount of aid; rules</heading>
+          <subsection eId="412-007__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The eligibility for and amount of aid
+to be granted for any dependent child or relative pursuant to ORS 412.006 shall
+be determined, in accordance with the rules of the Department of Human
+Services, taking into account:</p>
+            </content>
+            <paragraph eId="412-007__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The income, resources and maintenance available to such child and relative from
+whatever source derived, allowable deductions and the statewide income and
+payment standards.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The income and financial condition of the stepparent, if any, of the child for
+whom aid is sought.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-007__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-007__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="412-007__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this section is not intended to relieve any parent of any
+legal obligation with respect to the support of the natural or adopted children
+of the parent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-007__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In determining the eligibility for and amount of aid to be granted under
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-007__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section and under ORS 411.070, the department shall
+disregard:</p>
+            </content>
+            <paragraph eId="412-007__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>From income, no less than $50 of the amount of child support received for each
+child per month, up to a total of $200 or the maximum established by federal
+law, for the family;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As resources, moneys held in a pension or retirement account; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any earnings or other income or resources of the family as the department may
+prescribe by rule.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-007__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>As used in this section, “pension and retirement account” includes:</p>
+            </content>
+            <paragraph eId="412-007__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Benefits employees receive only when they retire or leave employment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pension, profit-sharing and stock bonus plans exempt from taxation by section
+401 of the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Qualified annuities exempt from taxation by section 403</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of the
+Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Accounts or annuities exempt from taxation by section 408</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>of the Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Roth individual retirement plans authorized by section 408A of the Internal
+Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Retirement plans offered by governments, nonprofit organizations or unions that
+are:</p>
+              </content>
+              <subparagraph eId="412-007__subsec_4__subsec_f__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Exempt from taxation under section 457</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or 501</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-007__subsec_4__subsec_c">
+              <num>(c)</num>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-007__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>of the Internal Revenue
+Code; or
+(B)
+Contributions to the Thrift Savings Fund authorized by 5 U.S.C. 8439; and</p>
+            </content>
+            <paragraph eId="412-007__subsec_18__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Defined contribution plan accounts described in ORS 178.210. [2015 c.765 s4;
+2018 c.56 s1]
+Note: 412.007 was added
+to and made a part of 412.001 to 412.161 by legislative action but was not
+added to any smaller series therein. See Preface to Oregon Revised Statutes for
+further explanation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_412-009">
+          <num>412.009</num>
+          <heading>Engagement in JOBS; disqualification; rules</heading>
+          <subsection eId="412-009__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Legislative Assembly
+finds that:</p>
+            </content>
+            <paragraph eId="412-009__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is evidence that families who experience the most disqualifications from
+the job opportunity and basic skills program are often those with the most
+barriers to employment; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-009__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The loss of income from a program disqualification adds strain and creates
+instability in families already experiencing extreme poverty, and this affects
+the health and food security of the dependent children in the family.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-009__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Human Services by rule shall adopt proven methods of
+encouraging participants’ full engagement in the job opportunity and basic
+skills program, including the development of an individualized case plan and an
+ongoing process to ensure that the case plan is appropriate.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-009__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="412-009__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall facilitate the participation of needy caretaker relatives
+and may not reduce the family’s aid payment as a method of encouraging full
+engagement in the job opportunity and basic skills program pursuant to
+subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-009__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section until the department determines that the needy
+caretaker relative that is not fully engaged:
+(A)
+Has no identified barriers or refuses to take appropriate steps to address
+identified barriers to participation in the program; and
+(B)
+Refuses without good cause, as defined by the department by rule, to meet the
+requirements of an individualized and appropriate case plan.</p>
+            </content>
+            <paragraph eId="412-009__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may not reduce aid payments under this subsection to families:</p>
+              </content>
+              <subparagraph eId="412-009__subsec_2__subsec_b__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Receiving aid pursuant to ORS 412.014 or 412.124;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-009__subsec_2__subsec_b__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>In which the caretaker relative participates in suitable activities for the
+number of hours required each month to satisfy federally required participation
+rates; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-009__subsec_2__subsec_b__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Until the department has screened for and, if appropriate, assessed barriers to
+participation, including but not limited to physical or mental health needs,
+substance abuse, domestic violence or learning needs.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="412-009__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may not reduce aid payments under this subsection before
+assessing the risk of harm posed to the children in the household by the
+reduction in aid payments and taking steps to ameliorate the risk.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-009__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Following notice and an opportunity for a hearing under ORS chapter 183 and
+subject to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-009__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section, the department may reduce the aid
+payment to the family of an individual who refuses to participate in suitable
+activities required by the individual’s case plan or may terminate the aid
+payment to the family of a noncompliant individual in accordance with
+procedures adopted by the department by rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-009__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A caretaker relative may request a hearing to contest the basis for a reduction
+in or termination of an aid payment under this section within 90 days of a
+reduction in or termination of aid.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-009__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Every six months, the department shall report to the Family Services Review
+Commission established under ORS 411.075 the status of and outcomes for
+families for whom aid has been reduced or terminated under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-009__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of
+this section. The department shall work with the commission to establish the
+details to be provided in the report. [Formerly 418.045; 2011 c.604 s2; 2015
+c.765 s12; 2019 c.602 s9]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-011">
+          <num>412.011</num>
+          <heading>Support service payments to prevent loss of employment</heading>
+          <content>
+            <p>The Department of
+Human Services may provide support service payments, as prescribed by rule, for
+transportation, housing or other costs as necessary to prevent the loss of
+employment that will result in the family qualifying for temporary assistance
+for needy families program aid under ORS 412.006. [2015 c.765 s2; 2019 c.602 s3]
+Note: 412.011 was added
+to and made a part of 412.001 to 412.161 by legislative action but was not
+added to any smaller series therein. See Preface to Oregon Revised Statutes for
+further explanation.</p>
+          </content>
+        </section>
+        <section eId="sec_412-014">
+          <num>412.014</num>
+          <heading>State Family Pre-SSI/SSDI program; rules</heading>
+          <subsection eId="412-014__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is created in the
+Department of Human Services the State Family Pre-SSI/SSDI program. The
+department shall provide aid under this section to families that are eligible
+for temporary assistance for needy families under ORS 412.001 to 412.069 and
+that include a needy caretaker relative who is unable to maintain substantial
+gainful activity due to a disability or combination of disabilities that meet
+the criteria of section 216 of the Social Security Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-014__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall assist families receiving aid under this section in
+qualifying for federal Supplemental Security Income and Social Security
+disability benefits, including obtaining necessary medical records and
+evaluations. The department shall maintain a list of lawyers admitted to the
+bar of any state and approved by the Social Security Administration and
+nonprofit legal services organizations that represent Oregon residents in
+administrative hearings before the Social Security Administration Office of
+Disability Adjudication and Review.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-014__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department shall adopt rules for determining the amount of aid granted
+under this section that is not less than the amount of aid granted under ORS
+412.006</p>
+            </content>
+          </subsection>
+          <subsection eId="412-014__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-014__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Participation in the State Family Pre-SSI/SSDI program shall be voluntary. The
+department shall provide information to potential participants in the State
+Family Pre-SSI/SSDI program about the opportunities for employment while
+receiving Supplemental Security Income and about employment resources available
+to State Family Pre-SSI/SSDI program participants. The information must be in a
+format accessible to the potential participant.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-014__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Participants in the State Family Pre-SSI/SSDI program must cooperate with the
+department in establishing eligibility for Supplemental Security Income
+including, but not limited to, signing an interim assistance reimbursement
+agreement. The department by rule may establish policies for monitoring and
+encouraging full engagement in the State Family Pre-SSI/SSDI program, including
+activities that promote family stability. The department shall offer
+participants the opportunity to participate in any suitable activity in the job
+opportunity and basic skills program under ORS 412.009.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-016">
+          <num>412.016</num>
+          <heading>Enrollment in educational institution as allowable work activity</heading>
+          <subsection eId="412-016__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A parent who
+applies for or receives temporary assistance for needy families under ORS
+412.001 to 412.069 and who meets the criteria described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-016__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of
+this section may enroll in and attend an educational institution as an
+allowable work activity for purposes of ORS 412.001 to 412.069.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-016__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To enroll in and attend an educational institution as an allowable work
+activity, a parent must:</p>
+            </content>
+            <paragraph eId="412-016__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be accepted for full-time attendance into or be enrolled full-time at an
+educational institution;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-016__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Demonstrate that completion of the educational program is likely to result in
+employment that provides the wages and benefits necessary for the parent to
+support the parent’s family without temporary assistance for needy families;
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-016__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Make satisfactory academic progress, as defined by the educational institution,
+toward a degree or certificate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-016__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A parent who is enrolled at an educational institution under this section shall
+receive temporary assistance for needy families under ORS 412.001 to 412.069 as
+well as be eligible for other support services under the temporary assistance
+for needy families program.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-016__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Department of Human Services shall inform all parents applying for or
+participating in the temporary assistance for needy families program of the
+option to enroll in an educational institution and the requirements under
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-016__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-016__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The department shall adopt rules to implement and administer this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-016__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>As used in this section, “educational institution” has the meaning given that
+term in ORS 348.105. [2003 c.212 s1; 2009 c.11 s55; 2019 c.602 s5]
+Note: 412.016 was added
+to and made a part of 412.001 to 412.161 by legislative action but was not
+added to any smaller series therein. See Preface to Oregon Revised Statutes for
+further explanation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-024">
+          <num>412.024</num>
+          <heading>Assignment of support rights; cooperation required for establishing paternity of child or obtaining support; exceptions; sanctions; rules</heading>
+          <subsection eId="412-024__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An applicant
+or recipient of aid, except for recipients of aid under the JOBS Plus Program
+established in ORS 411.878, must assign to the state any rights to support that
+may be due from any other person to a family member for whom the applicant is
+applying for or receiving aid. If aid is paid and received for the support of a
+child, the rights to child support that any person may have for the child are
+deemed to have been assigned by operation of law to the state. Notice of the
+assignment by operation of law shall be given to the applicant at the time of
+application for public assistance, and shall be given to any obligee who may
+hold some interest in such support rights by depositing a notice in the United
+States mail, postage prepaid, addressed to the last-known address of such person.
+Assignment of support rights to the state shall be as set forth in rules
+adopted by the Department of Human Services and the Department of Justice.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-024__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as otherwise provided in this subsection, an applicant or recipient who
+receives aid shall cooperate with the Department of Human Services and the
+Department of Justice in establishing the paternity of the applicant’s or
+recipient’s child born out of wedlock and in obtaining support or other
+payments or property due the applicant or child. An applicant or recipient is
+not required to cooperate if there is good cause or some other exception to the
+cooperation requirement that takes into account the best interest of the child.
+The Department of Human Services shall adopt rules defining good cause, other
+exceptions to cooperation and noncooperation by an applicant or recipient, and
+setting the sanction for noncooperation. The sanction may include total
+ineligibility of the family for aid, but in no situation may the sanction be
+less than a 25 percent reduction of the monthly grant amount. At the time an
+applicant applies for aid, the Department of Human Services shall inform the
+applicant, in writing, of the requirement of and exceptions to cooperation and
+the sanctions for noncooperation, and shall inform recipients, in writing,
+whenever eligibility for aid is redetermined.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-024__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>This section shall apply to recipients of aid pursuant to the temporary
+assistance for needy families program as long as the aid is funded in whole or
+in part with federal grants under Title IV-A of the Social Security Act. [Formerly
+418.042; 2009 c.80 s7; 2011 c.604 s5; 2015 c.765 s13]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-026">
+          <num>412.026</num>
+          <heading>Payment of aid to individual other than relative; rules</heading>
+          <subsection eId="412-026__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Money payments of aid with respect to the temporary assistance for needy
+families program, including payments to meet the needs of the relative, and the
+relative’s spouse, with whom a dependent child is living, may be made to an
+individual other than such relative or spouse if it is determined by the
+department that the relative to whom such payments are made has such inability
+to manage funds that continuation of such payments to the relative would be
+contrary to the welfare of such child and that, therefore, it is necessary to
+provide such aid through payments in the manner authorized by this section.
+Such determination shall be subject to review and hearing, upon application of
+such relative, in the manner prescribed pursuant to ORS 412.069. However, the
+pendency of such application, review or hearing shall not stay the effect of
+such determination.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-026__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department may designate any responsible individual, including any public
+officer or employee, as a representative payee if such individual is willing to
+act in such capacity. Representative payees shall receive no compensation for
+their services, but shall be allowed expenses actually and necessarily incurred
+by them in the performance of their duties under ORS 412.029. Such expenses
+shall be paid from funds appropriated to the department for administrative
+expenditures.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-026__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>During the time payments of aid pursuant to the temporary assistance for needy
+families program with respect to a dependent child or relative are made to a
+representative payee, the department shall:</p>
+            </content>
+            <paragraph eId="412-026__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Undertake and continue special efforts to develop greater ability on the part
+of such relative to manage funds in such manner as to protect the welfare of
+the relative and the family of the relative; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-026__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Periodically review the determination made pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-026__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this
+section and terminate payments to the representative payee if it is established
+by such review that the conditions justifying such determination no longer
+exist. [Formerly 418.050]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-028">
+          <num>412.028</num>
+          <heading>Petition for and appointment of guardian or conservator; costs; compensation</heading>
+          <subsection eId="412-028__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If, after
+such period as may be prescribed by the Department of Human Services, it
+appears to the department that the need for money payments of aid to a
+representative payee is continuing or likely to continue in any case, the
+department may petition for the judicial appointment of a guardian or a
+conservator of the estate of the relative referred to in ORS 412.026</p>
+            </content>
+          </subsection>
+          <subsection eId="412-028__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>. If a
+guardian or a conservator of the estate of the relative is appointed and duly
+qualified, money payments of aid otherwise payable to the relative, or
+representative payee, shall be paid to the guardian or the conservator until
+the department determines that the conditions which would justify money
+payments of aid to a representative payee under ORS 412.026 no longer exist.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-028__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to funds made available to the department for administrative
+expenditures, the department shall, with respect to any guardianship or
+conservatorship established under this section:</p>
+            </content>
+            <paragraph eId="412-028__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pay all costs and fees reasonably incurred in obtaining the appointment of the
+guardian or the conservator, including any necessary bond premiums;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-028__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pay all costs and fees necessarily incurred by the guardian or the conservator
+in administering money payments of aid received by the guardian or conservator
+under this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-028__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Compensate the guardian or the conservator, for the fees in administering the
+money payments, according to schedules of fees prescribed by rule or regulation
+of the department. [Formerly 418.054]</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_412-029">
+          <num>412.029</num>
+          <heading>Expenditures limited to needs of beneficiary; rules</heading>
+          <content>
+            <p>Each money
+payment of aid made to a representative payee or to a guardian or a conservator
+under ORS 412.026 or 412.028 shall be expended by the representative payee,
+guardian or conservator solely to make purchases to meet the needs of the
+individuals with respect to whom the payment is made. However, the individuals
+may receive from the representative payee, guardian or conservator such
+portions of the money payments, and at such intervals, as may be permitted by
+rules adopted by the Department of Human Services. [Formerly 418.059; 2015
+c.765 s14; 2019 c.602 s11]</p>
+          </content>
+        </section>
+        <section eId="sec_412-034">
+          <num>412.034</num>
+          <heading>Denial of aid when unemployed parent refuses employment</heading>
+          <content>
+            <p>Aid under ORS
+412.006 shall not be granted with respect to, or on behalf of, a dependent
+child living with an unemployed parent if, and for as long as, the unemployed
+parent of such child refuses without good cause to accept employment in which
+the unemployed parent is able to engage and which is offered through any
+employment office defined in ORS 657.010 or which is otherwise offered by any
+employer if such offer is determined by the Department of Human Services after
+notification by such employer to be a bona fide offer of such employment. [Formerly
+418.075]</p>
+          </content>
+        </section>
+        <section eId="sec_412-039">
+          <num>412.039</num>
+          <heading>Cooperation of department with Director of Employment Department and all available workforce services to find employment for parent</heading>
+          <subsection eId="412-039__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The
+Legislative Assembly declares that it is in the public interest of the State of
+Oregon that all available workforce services, including those authorized under
+other provisions of law, be utilized to provide incentives, opportunities and
+necessary services to appropriate individuals in order that they may be
+employed in the regular economy, may be trained for regular employment and may
+participate in special work projects.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-039__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>During any period in which aid may be granted under ORS 412.006 with respect
+to, or on behalf of, a dependent child living with an unemployed caretaker
+relative, the Department of Human Services and the Director of the Employment
+Department shall enter into cooperative arrangements looking toward employment
+of or training services for the unemployed caretaker relative and shall provide
+for the registration and periodic reregistration of such caretaker relative at
+employment offices established pursuant to ORS 657.705 to 657.725 to effect
+maximum utilization of the job placement services and other services and
+facilities of such offices. [Formerly 418.085; 2015 c.765 s15]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-044">
+          <num>412.044</num>
+          <heading>Cooperation with other agencies to provide vocational training</heading>
+          <content>
+            <p>The Department of
+Human Services and any other state agency, which administers, supervises or
+participates in the administration of programs of public vocational or adult
+education services available in this state, may enter into and execute
+cooperative arrangements looking toward maximum utilization of such services to
+encourage the training or retraining of individuals participating in a
+community work and training program as defined in ORS 411.855, and otherwise to
+assist such individuals in preparing for regular employment. [Formerly 418.097]</p>
+          </content>
+        </section>
+        <section eId="sec_412-049">
+          <num>412.049</num>
+          <heading>Powers and duties of department; rules</heading>
+          <subsection eId="412-049__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Supervise the administration of the temporary assistance for needy families
+program under ORS 412.001 to 412.155.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-049__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Make such rules and regulations and take such action as may be necessary or
+desirable for carrying out ORS 412.001 to 412.155.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-049__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Prescribe the form of and print and supply such forms as it deems necessary and
+advisable.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-049__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Cooperate with the federal government in matters of mutual concern pertaining
+to temporary assistance for needy families, including the adoption of such
+methods of administration as are found by the federal government to be
+necessary for the efficient operation of the plan for such aid.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-049__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Accept and disburse any and all federal funds made available to the State of
+Oregon for temporary assistance for needy families purposes. [Formerly 418.100;
+2015 c.765 s16]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-054">
+          <num>412.054</num>
+          <heading>Application for aid</heading>
+          <content>
+            <p>Application for aid under ORS 412.001 to 412.069 shall be made to the
+Department of Human Services by the relative with whom the child lives. The
+application shall be in the manner and upon the form prescribed by the
+department. [Formerly 418.110; 2015 c.70 s9; 2015 c.765 s17]</p>
+          </content>
+        </section>
+        <section eId="sec_412-059">
+          <num>412.059</num>
+          <heading>Investigation of eligibility of child; rules</heading>
+          <content>
+            <p>Whenever the Department of Human
+Services receives a notification of the dependency of a child or an application
+for aid, a record shall promptly be made of the circumstances, relating the
+facts supporting the application and such other information as may be required
+by the rules and regulations of the department. [Formerly 418.115]</p>
+          </content>
+        </section>
+        <section eId="sec_412-064">
+          <num>412.064</num>
+          <heading>Authority to determine eligibility</heading>
+          <content>
+            <p>The Department of Human Services shall
+decide whether the child is eligible for aid under ORS 412.001 to 412.069 and
+determine the date on which the aid granted shall begin. [Formerly 418.120;
+2015 c.70 s10; 2015 c.765 s18]</p>
+          </content>
+        </section>
+        <section eId="sec_412-069">
+          <num>412.069</num>
+          <heading>Appeal from denial of or failure to act on application or from modification or cancellation of aid</heading>
+          <content>
+            <p>If an application is not acted upon within a reasonable time after the filing
+of the application or is denied in whole or in part, or if any grant of aid is
+modified or canceled, the applicant or recipient may petition the Department of
+Human Services for review in the county which the applicant or recipient elects
+as provided by ORS chapter 183. [Formerly 418.125]</p>
+          </content>
+        </section>
+        <section eId="sec_412-072">
+          <num>412.072</num>
+          <heading>Requirements when victims of domestic violence apply for or receive TANF; confidentiality</heading>
+          <subsection eId="412-072__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Human Services shall:</p>
+            </content>
+            <paragraph eId="412-072__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Identify applicants for and recipients of assistance under the temporary
+assistance for needy families program who are currently victims of domestic
+violence, have been victims of domestic violence or are at risk of
+victimization by domestic violence.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-072__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Ensure that appropriate individuals on the local level who provide assistance
+to domestic violence victims participate in individualized case management with
+the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-072__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refer individuals identified under this subsection to appropriate counseling
+and support services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-072__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Waive or modify any temporary assistance for needy families program
+requirements that may make it more difficult for individuals identified under
+this subsection to escape domestic violence or place those individuals at risk
+of further or future domestic violence, including but not limited to:</p>
+              </content>
+              <subparagraph eId="412-072__subsec_1__subsec_d__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Time limits on receipt of benefits;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-072__subsec_1__subsec_d__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Work requirements;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-072__subsec_1__subsec_d__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Paternity establishment and child support cooperation requirements;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-072__subsec_1__subsec_d__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>Residency requirements;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-072__subsec_1__subsec_d__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>Family cap provisions; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-072__subsec_1__subsec_d__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>Penalties for failure to comply with a program requirement.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="412-072__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Maintain emergency assistance eligibility and payment limits for victims of
+domestic violence or persons at risk of victimization by domestic violence
+identified under this section at no less than the levels in effect on January
+1, 1997.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-072__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Allow eligibility for temporary assistance for needy families for persons
+identified under this section as victims of domestic violence or persons
+identified as at risk of victimization by domestic violence who would otherwise
+be eligible except for the fact that they are noncitizens.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-072__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All information received by the department in identifying the individuals
+described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-072__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section shall remain confidential.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-072__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of this section, “domestic violence” means the occurrence of one
+or more of the following acts between family members, intimate partners or
+household members:</p>
+            </content>
+            <paragraph eId="412-072__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Attempting to cause or intentionally, knowingly or recklessly causing physical
+injury or emotional, mental or verbal abuse;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-072__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Intentionally, knowingly or recklessly placing another in fear of imminent
+serious physical injury;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-072__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Committing sexual abuse in any degree as defined in ORS 163.415, 163.425 and
+163.427; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-072__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Using coercive or controlling behavior.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-072__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Nothing in this section prohibits disclosure of information for the purposes of
+making a report of suspected abuse as required under ORS 124.060, 419B.010,
+430.765 or 441.640. [Formerly 411.117]
+Note: 412.072 was
+enacted into law by the Legislative Assembly but was not added to or made a
+part of ORS chapter 412 or any series therein by legislative action. See
+Preface to Oregon Revised Statutes for further explanation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-074">
+          <num>412.074</num>
+          <heading>Use and custody of records of temporary assistance for needy families program; rules</heading>
+          <subsection eId="412-074__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided in this section and except for purposes
+directly connected with the administration of the temporary assistance for
+needy families program, delivery or administration of programs and services the
+Department of Human Services is authorized to deliver and administer pursuant
+to ORS 409.010 or as necessary to assist public assistance applicants and
+recipients in accessing and receiving other governmental or private nonprofit
+services and in accordance with the rules of the department, a person may not
+solicit, disclose, receive, make use of, or authorize, knowingly permit,
+participate in, or acquiesce in the use of, any list of or names of, or any
+information concerning, persons applying for or receiving such aid, directly or
+indirectly derived from the records, papers, files or communications of the
+department or acquired in the course of the performance of official duties.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-074__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in this section prohibits the disclosure and use of information about
+applicants and recipients as is necessary to carry out the child support
+enforcement laws of this state and of the United States.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-074__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Nothing in this section prohibits the disclosure of the address of any
+applicant or recipient to a law enforcement official at the request of such official.
+To receive information pursuant to this section, the official must furnish the
+agency the name of the applicant or recipient and advise that the applicant or
+recipient:</p>
+            </content>
+            <paragraph eId="412-074__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is fleeing to avoid prosecution, custody or confinement after conviction for a
+felony;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-074__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is violating a condition of probation or parole; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-074__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has information that is necessary for the official to conduct the official
+duties of the official and the location or apprehension of the applicant or
+recipient is within such official duties.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-074__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Nothing in this section prohibits disclosure of information for the purposes of
+making a report of suspected abuse as required under ORS 124.060, 419B.010,
+430.765 or 441.640. [Formerly 418.130; 2023 c.271 s4]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-079">
+          <num>412.079</num>
+          <heading>Time limits; exceptions; rules</heading>
+          <subsection eId="412-079__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="412-079__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="412-079__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section, a needy caretaker relative may not receive aid under
+ORS 412.006 if the needy caretaker relative has received aid under the
+temporary assistance for needy families program in this state or any other
+state for more than a total of 60 months.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-079__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Human Services may not count toward the 60-month limit on
+receipt of aid described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-079__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section any month in which a
+needy caretaker relative:</p>
+            </content>
+            <paragraph eId="412-079__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Receives a grant of temporary assistance for needy families under ORS 412.001
+to 412.069, or assistance funded under Title IV-A of the Social Security Act in
+this or another state, prior to July 1, 2003;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-079__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Resides in an area described in 18 U.S.C. 1151, and 50 percent or more of the
+adult residents in the area are unemployed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-079__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is, in that month, a minor child and neither the head of the household nor
+married to the head of the household; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-079__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Receives aid under ORS 411.878, 412.014 or 412.124.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-079__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-079__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section, a needy caretaker relative may
+receive aid for more than 60 months if the needy caretaker relative:</p>
+            </content>
+            <paragraph eId="412-079__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is enrolled at an educational institution under ORS 412.016;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-079__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is exempt from time limits pursuant to rules adopted by the department in
+accordance with section 408</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-079__subsec_1__subsec_a">
+              <num>(a)</num>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-079__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>(C) of the Social Security Act; or</p>
+            </content>
+            <paragraph eId="412-079__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is unable to obtain or maintain employment that provides earnings in excess of
+income limits established by the department under ORS 412.007 because the needy
+caretaker relative:</p>
+              </content>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Is a victim of domestic violence as defined in ORS 412.072;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Has a certified learning disability;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_C">
+                <num>(C)</num>
+                <content>
+                  <p>Has a mental health condition or an alcohol or drug abuse problem;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_D">
+                <num>(D)</num>
+                <content>
+                  <p>Has a disability as defined by the department by rule in a manner consistent
+with the definition of disability in the Americans with Disabilities Act;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_E">
+                <num>(E)</num>
+                <content>
+                  <p>Has a child with a disability;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_F">
+                <num>(F)</num>
+                <content>
+                  <p>Is deprived of needed medical care;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>Is subjected to battery or extreme cruelty as defined by the department by
+rule; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="412-079__subsec_7__subsec_c__subsec_H">
+                <num>(H)</num>
+                <content>
+                  <p>Qualifies as having a hardship as defined by the department by rule.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-079__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="412-079__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Human Services shall monitor the average period of time a
+family receives aid and shall record such information by family demographics.
+The department shall monitor the wages and benefits received by an individual
+who becomes employed while receiving aid, including child care benefits. The
+department shall monitor and record the rate at which families who cease
+receiving aid for employment subsequently apply for and receive aid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-079__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall report the results of the monitoring required under
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-079__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this subsection to the Legislative Assembly not later than the
+15th day of each odd-numbered year regular session. [Formerly 418.131; 2009
+c.11 s56; 2011 c.9 s54; 2011 c.545 s47; 2012 c.107 s80; 2015 c.765 s19]</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_412-084">
+          <num>412.084</num>
+          <heading>Minor parents’ eligibility to receive assistance and support services</heading>
+          <subsection eId="412-084__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person who
+is a minor parent of a child and is receiving or applying for aid shall reside
+with the person’s parent, parents or legal guardian. The person may substitute
+an alternative supervised living arrangement if the Department of Human
+Services determines that it is unsafe or impractical for the person to reside
+with the person’s parent, parents or legal guardian. Failure of a minor parent
+applying for or receiving temporary assistance for needy families to reside
+with the person’s parent, parents or legal guardian or in an alternative
+supervised living arrangement shall result in the termination of aid.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-084__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-084__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section shall not apply to an
+applicant for or recipient of temporary assistance for needy families when
+circumstances or conditions exist that the department by rule establishes are
+not in the best interest of the child.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-084__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a person who is a minor parent receiving aid and who is not living with the
+person’s parent, parents or legal guardian subsequently returns to reside with
+the parent, parents or guardian and is determined ineligible to receive aid by
+reason of the parent’s or guardian’s income, the minor parent shall be eligible
+to receive such services, including medical care, as the department determines
+are necessary to allow the minor parent to attain a high school diploma or the
+equivalent, or to participate in the job opportunity and basic skills program
+as described in ORS 412.009. [Formerly 418.132; 2019 c.602 s10]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-089">
+          <num>412.089</num>
+          <heading>Referral to mental health or drug abuse professional; provision of resources; staff training</heading>
+          <subsection eId="412-089__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Human Services shall refer a person applying for or
+receiving temporary assistance for needy families to an evaluation by a mental
+health or drug abuse professional if the department reasonably believes such
+referral is necessary. The Department of Human Services shall develop
+guidelines to assist in the identification and referral of individuals
+requiring mental health or drug abuse treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If an evaluation conducted under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section determines that
+mental health or drug abuse treatment is necessary for the person to function
+successfully in the workplace, the department shall provide such resources as
+are necessary and available for the person to participate in and successfully complete
+treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person who refuses to participate in an evaluation under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of
+this section or treatment under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section shall be subject
+to the provisions of ORS 412.009</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department shall provide training to staff who work directly with persons
+applying for or receiving temporary assistance for needy families in assessment
+and evaluation of mental health disorders, addictions and domestic violence as
+may be necessary to implement the provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-089__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section.
+[Formerly 418.134; 2015 c.765 s20]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-094">
+          <num>412.094</num>
+          <heading>Public officials to cooperate in locating and furnishing information concerning parents of children receiving or applying to receive public assistance and in prosecuting nonsupport cases; use of information restricted</heading>
+          <subsection eId="412-094__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All state,
+county and city agencies, officers and employees shall cooperate in the
+location of parents who have abandoned or deserted, or are failing to support,
+children receiving or applying to receive public assistance and shall on
+request supply the Department of Human Services, the Division of Child Support
+of the Department of Justice or the district attorney of any county in the
+state with all information on hand relative to the location, income and
+property of such parents, including information disclosed to the Division of
+Child Support under ORS 314.840</p>
+            </content>
+          </subsection>
+          <subsection eId="412-094__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="412-094__subsec_2__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>. The granting of aid to the applicant
+shall not be delayed or contingent upon receipt of the answer to such requests
+by the Department of Human Services, the Division of Child Support or the
+district attorney. The Department of Human Services shall use such information
+only for the purposes of administration of public assistance to such children,
+and the district attorney and the Division of Child Support shall use such
+information only for the purpose of enforcing the liability of such parents to
+support such children, and neither shall use the information or disclose it for
+any other purpose. Any person who violates this prohibition against disclosure,
+upon conviction, is punishable as provided in ORS 314.991</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-094__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-094__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Human Services shall cooperate with the Division of Child
+Support or the district attorney prosecuting or considering the prosecution of
+such parent for nonsupport and shall report to the Division of Child Support or
+the district attorney all information contained in the case record which
+concerns the question of nonsupport and the suitability of prosecution as a
+method of obtaining support for the child in each case. [Formerly 418.135; 2013
+c.36 s72]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-109">
+          <num>412.109</num>
+          <heading>Policy on absent parent</heading>
+          <subsection eId="412-109__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Legislative Assembly declares that the policy
+of this state is that, to the extent consistent with federal law, the temporary
+assistance for needy families program policy and practice shall recognize that
+an absent parent is often an important influence in the life of a child.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-109__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Program policy and practice:</p>
+            </content>
+            <paragraph eId="412-109__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall recognize that regular, frequent visits with absent parents are often in
+the best interests of needy children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-109__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall not interfere with the continuing relationship of absent parents with
+their children, whether the parents are temporarily or permanently out of the
+homes of their children; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-109__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Shall not restrict parents in adopting plans that they consider to be in the
+best interests of their children. [Formerly 418.147]</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_412-124">
+          <num>412.124</num>
+          <heading>Post-TANF aid to employed families; rules</heading>
+          <subsection eId="412-124__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, “aid”
+means:</p>
+            </content>
+            <paragraph eId="412-124__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Cash payments to a family; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-124__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Support service payments and services through the job opportunity and basic
+skills program necessary to maintain employment to assist the family, directly
+or indirectly, in achieving long term stability.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-124__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Human Services may provide aid for up to 12 months to a
+family if:</p>
+            </content>
+            <paragraph eId="412-124__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The family is residing in this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-124__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The family becomes ineligible for aid under the temporary assistance for needy
+families program due to employment or increased hours of work; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="412-124__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The caretaker relative is employed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="412-124__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department shall adopt by rule standards for the aid provided under this
+section. The department may disregard the aid in determining eligibility for
+publicly subsidized child care assistance. [Formerly 418.155; 2015 c.765 ss6,7;
+2019 c.602 s6]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-139">
+          <num>412.139</num>
+          <heading>Duties of department relating to federal law</heading>
+          <content>
+            <p>The Department of Human Services
+shall have the responsibility and authority to provide such services as are
+necessary to maintain the intent of and compliance with federal requirements
+for the program described in ORS 412.124. [Formerly 418.160]</p>
+          </content>
+        </section>
+        <section eId="sec_412-144">
+          <num>412.144</num>
+          <heading>Duties of department relating to other agencies</heading>
+          <content>
+            <p>The Department of
+Human Services shall have the responsibility and authority to provide such
+services and engage in such cooperative and coordinated efforts with the
+Employment Department and other appropriate agencies as are necessary to
+maintain the intent of and compliance with federal requirements for the program
+described in ORS 412.124. [Formerly 418.163]</p>
+          </content>
+        </section>
+        <section eId="sec_412-151">
+          <num>412.151</num>
+          <heading>Statewide electronic benefits transfer system; replacement cards to display name</heading>
+          <subsection eId="412-151__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Human Services shall provide temporary assistance for
+needy families and supplemental nutrition assistance to eligible individuals
+through an electronic benefits transfer system that uses an electronic benefits
+transfer card. Any time the department issues an electronic benefits transfer
+card to replace a card that was reported lost or stolen, the replacement card must
+display the name of the individual to whom the card is issued.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-151__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall seek all state and federal approvals necessary for
+implementation of an electronic benefits transfer system as described in
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="412-151__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="412-151__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>This section does not apply to Supplemental Nutrition Assistance Program
+benefits issued to a senior citizen under a demonstration project approved by
+the Food and Nutrition Service of the United States Department of Agriculture
+or to benefits received by a recipient of federal Supplemental Security Income
+in the form of a check in lieu of an electronic benefits transfer card. [Formerly
+418.047; 2009 c.599 s20; 2015 c.710 s1]
+Note: 412.151 was
+enacted into law by the Legislative Assembly but was not added to or made a
+part of ORS chapter 412 or any series therein by legislative action. See
+Preface to Oregon Revised Statutes for further explanation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-155">
+          <num>412.155</num>
+          <heading>Additional monthly payments of elderly rental assistance</heading>
+          <content>
+            <p>The Department of
+Human Services shall include in the payment made under ORS 412.001 to 412.155
+and 418.647 a monthly amount to be designated elderly rental assistance. The
+amount shall be determined by the department, subject to the total amount
+appropriated for that purpose by the Legislative Assembly. [Formerly 418.172]</p>
+          </content>
+        </section>
+        <section eId="sec_412-161">
+          <num>412.161</num>
+          <heading>Policy on two-parent families</heading>
+          <subsection eId="412-161__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>That the provision of public assistance to children in very low income families
+would help keep families together and reduce hardship in times of high
+unemployment;</p>
+            </content>
+          </subsection>
+          <subsection eId="412-161__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>That the lack of public assistance to two-parent unemployed families does not
+produce significant financial savings for the State of Oregon since family
+break-up increases the number of single-parent families receiving public
+assistance;</p>
+            </content>
+          </subsection>
+          <subsection eId="412-161__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>That children in two-parent unemployed families have needs as urgent as those
+of children in single-parent unemployed families;</p>
+            </content>
+          </subsection>
+          <subsection eId="412-161__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>That the provision of public assistance to two-parent unemployed families may
+provide access to medical care for these families, health being one of the
+prerequisites to seeking and maintaining employment;</p>
+            </content>
+          </subsection>
+          <subsection eId="412-161__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>That because federal law requires active participation in employment and other
+alternatives to be eligible for federal funds for public assistance, the
+availability of federal funds helps those families who are trying hardest to
+help themselves be self-supporting; and</p>
+            </content>
+          </subsection>
+          <subsection eId="412-161__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>That additional funds need to be made available in the temporary assistance for
+needy families program to effectuate this policy. [Formerly 418.180; 2015 c.765
+s21]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_412-991">
+          <num>412.991</num>
+          <heading>Criminal penalties</heading>
+          <subsection eId="412-991__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of 418.990; 2015 c.765 s26b]
+_______________</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

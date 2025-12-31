@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ORS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-318"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-318"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#oregon-legislature"/>
+          <FRBRcountry value="us-or"/>
+          <FRBRnumber value="318"/>
+          <FRBRname value="ORS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-318/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-318/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-318/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-318/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="oregon-legislature" href="https://www.oregonlegislature.gov" showAs="Oregon State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_318">
+        <num>318</num>
+        <heading>Corporation Income Tax</heading>
+        <section eId="sec_318-010">
+          <num>318.010</num>
+          <heading>Short title; Department of Revenue to administer chapter</heading>
+          <content>
+            <p>This chapter
+shall be known and may be cited as the Corporation Income Tax Act of 1955, and
+it shall be administered by the Department of Revenue.</p>
+          </content>
+        </section>
+        <section eId="sec_318-020">
+          <num>318.020</num>
+          <heading>Imposition of tax</heading>
+          <subsection eId="318-020__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There hereby is imposed upon every corporation for each taxable year a tax
+at the rate provided in ORS 317.061 upon its Oregon taxable income derived from
+sources within this state, other than income for which the corporation is
+subject to the tax imposed by ORS chapter 317 according to or measured by its
+Oregon taxable income.</p>
+            </content>
+          </subsection>
+          <subsection eId="318-020__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Income from sources within this state includes income from tangible or
+intangible property located or having a situs in this state and income from any
+activities carried on in this state, regardless of whether carried on in
+intrastate, interstate or foreign commerce.</p>
+            </content>
+          </subsection>
+          <subsection eId="318-020__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Income that constitutes net long-term capital gain described in ORS 317.063
+shall be taxed at the rate imposed under ORS 317.063.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_318-031">
+          <num>318.031</num>
+          <heading>Provisions in ORS chapters 305, 314, 315 and 317 incorporated into corporation income tax law</heading>
+          <content>
+            <p>It being the intention of the Legislative Assembly that this chapter and ORS
+chapter 317 shall be administered as uniformly as possible (allowance being
+made for the difference in imposition of the taxes), ORS 305.140 and 305.150,
+ORS chapter 314 and the following sections are incorporated into and made a
+part of this chapter: ORS 315.104, 315.124, 315.133, 315.141, 315.156, 315.176,
+315.204, 315.208, 315.213, 315.283, 315.304, 315.326, 315.331, 315.336,
+315.506, 315.507, 315.523, 315.533, 315.593 and 315.643 (all only to the extent
+applicable to a corporation) and ORS chapter 317.</p>
+          </content>
+        </section>
+        <section eId="sec_318-040">
+          <num>318.040</num>
+          <heading>Exempt corporations</heading>
+          <content>
+            <p>In addition to the corporations exempt from the provisions of this chapter by
+the incorporation in this chapter of ORS 317.080, there shall also be exempt
+those foreign corporations whose activities in this state are confined to
+purchases of personal property, and the storage thereof incident to shipment
+outside the state, unless such foreign corporation is an affiliate of another
+foreign or domestic corporation which is doing business in Oregon or is subject
+to this chapter. Whether or not corporations are affiliated shall be determined
+as provided in section 1504 of the Internal Revenue Code.</p>
+          </content>
+        </section>
+        <section eId="sec_318-060">
+          <num>318.060</num>
+          <heading>Rules and regulations; personnel</heading>
+          <content>
+            <p>The Department of Revenue is authorized
+to employ such personnel, and prescribe and prepare such rules, regulations,
+forms and tables as are necessary to place this chapter in operation.</p>
+          </content>
+        </section>
+        <section eId="sec_318-070">
+          <num>318.070</num>
+          <heading>Disposition of revenue</heading>
+          <content>
+            <p>The net revenue from the tax imposed by this chapter
+shall be paid over to the State Treasurer and held in the General Fund as
+miscellaneous receipts available generally to meet any expense or obligation of
+the State of Oregon lawfully incurred. A working balance of unreceipted revenue
+from the tax imposed by this chapter may be retained by the Department of
+Revenue for the payment of refunds, but such working balance shall not at the
+close of any fiscal year exceed the sum of $50,000.</p>
+          </content>
+        </section>
+        <section eId="sec_318-074">
+          <num>318.074</num>
+          <heading>Disposition of revenue from tax imposed at increased rate; estimate</heading>
+          <subsection eId="318-074__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For tax years
+beginning on or after January 1, 2013, and before January 1, 2017, any revenue
+that is received as a result of a rate of tax above 7.5 percent imposed under
+this chapter and that is in excess of the revenue that would be received under
+this chapter at a rate of 7.5 percent shall be deposited into the Oregon Rainy
+Day Fund established by ORS 293.144.</p>
+            </content>
+          </subsection>
+          <subsection eId="318-074__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For tax years beginning on or after January 1, 2017, any revenue that is
+received as a result of a rate of tax above 7.2 percent imposed under this
+chapter and that is in excess of the revenue that would be received under this
+chapter at a rate of 7.2 percent shall be deposited into the Oregon Rainy Day
+Fund established by ORS 293.144.</p>
+            </content>
+          </subsection>
+          <subsection eId="318-074__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Before the end of each biennium, beginning with the biennium ending on June 30,
+2015, the Department of Revenue shall estimate the revenue described in
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="318-074__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="318-074__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section that is received during the biennium. An
+amount equal to that estimate shall be transferred into the Oregon Rainy Day
+Fund established by ORS 293.144 on or before June 30 of each odd-numbered year.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_318-106">
+          <num>318.106</num>
+          <heading>ORS 317.151 as part of chapter</heading>
+          <content>
+            <p>ORS 317.151 is incorporated into and made
+a part of this chapter.</p>
+          </content>
+        </section>
+        <section eId="sec_318-130">
+          <num>318.130</num>
+          <heading>ORS 317.329 as part of chapter</heading>
+          <content>
+            <p>ORS 317.329 is incorporated into and made
+a part of this chapter by reference.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
