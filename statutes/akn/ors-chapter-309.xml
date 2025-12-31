@@ -1,0 +1,2492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ORS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-309"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-309"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#oregon-legislature"/>
+          <FRBRcountry value="us-or"/>
+          <FRBRnumber value="309"/>
+          <FRBRname value="ORS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-309/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-309/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-309/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-309/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="oregon-legislature" href="https://www.oregonlegislature.gov" showAs="Oregon State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_309">
+        <num>309</num>
+        <heading>County Assessment Function; County Assessors</heading>
+        <section eId="sec_309-020">
+          <num>309.020</num>
+          <heading>Property value appeals board; members; qualifications; term of office; quorum; replacement</heading>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided by subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+            <paragraph eId="309-020__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The property value appeals board shall consist of those persons selected by the
+county clerk from the pool of board members appointed under ORS 309.067. The
+clerk shall complete the selection prior to the commencement of the board
+session as provided in ORS 309.026. The board shall consist of one member of
+the pool described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and two members of the pool described
+in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Additional property value appeals boards may be selected by the county clerk if
+necessary for the efficient conduct of business. Each additional board shall
+consist of one member of the pool described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, or under
+subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this section, and two members of the pool described in ORS
+309.067</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The term of each member of a county property value appeals board shall begin on
+the date of selection and shall end on the earliest of:</p>
+            </content>
+            <paragraph eId="309-020__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The second June 30 following the date of selection;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The date on which the member resigns; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The date on which the member is replaced under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The chairperson of the board shall be the member of the county governing body
+selected from the pool described in ORS 309.067</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, if present. If the
+governing body member is replaced as provided under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this
+section, the governing body member’s replacement shall be the chairperson
+unless the board votes unanimously to elect one of the members selected from
+the pool described in ORS 309.067</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>present as chairperson of the board. A
+quorum shall be a minimum of two members.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In the event of the inability or unwillingness of any member to serve, such
+indisposition continuing for more than seven consecutive days, the member shall
+be replaced in the manner of an original selection.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In any county:</p>
+            </content>
+            <paragraph eId="309-020__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county governing body may select one county resident from the pool
+described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to serve on a board instead of selecting a
+member of the county governing body.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any county resident appointed to the pool described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>may
+serve on any board as needed for the efficient conduct of business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A particular member of a board shall not participate in the determination of a
+petition after the hearing if the board member did not hear and consider, as a
+member of the board, the evidence presented at the hearing. [Amended by 1953
+c.714 s3; 1955 c.709 s1; 1957 c.326 s1; 1967 c.142 s1; 1971 c.363 s1; 1973 c.61
+s3; 1973 c.372 s1; 1979 c.725 s1; 1985 c.318 s2; 1989 c.330 s2; 1991 c.459 s186;
+1995 c.226 s6; 1997 c.541 s224; 2023 c.29 s20; 2023 c.38 s1]
+Note: The amendments to
+309.020 by section 20, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, including amendments by section 1, chapter 38, Oregon Laws
+2023, is set forth for the user’s convenience.
+309.020.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as
+provided by subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+            <paragraph eId="309-020__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board of property tax appeals shall consist of those persons selected by
+the county clerk from the pool of board members appointed under ORS 309.067.
+The clerk shall complete the selection prior to the commencement of the board
+session as provided in ORS 309.026. The board shall consist of one member of the
+pool described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and two members of the pool described in
+ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Additional boards of property tax appeals may be selected by the county clerk
+if necessary for the efficient conduct of business. Each additional board shall
+consist of one member of the pool described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, or under
+subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this section, and two members of the pool described in ORS
+309.067</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The term of each member of a county board of property tax appeals shall begin
+on the date of selection and shall end on the earliest of:</p>
+            </content>
+            <paragraph eId="309-020__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The second June 30 following the date of selection;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The date on which the member resigns; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The date on which the member is replaced under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The chairperson of the board shall be the member of the county governing body
+selected from the pool described in ORS 309.067</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, if present. If the
+governing body member is replaced as provided under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this
+section, the governing body member’s replacement shall be the chairperson
+unless the board votes unanimously to elect one of the members selected from
+the pool described in ORS 309.067</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>present as chairperson of the board. A
+quorum shall be a minimum of two members.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In the event of the inability or unwillingness of any member to serve, such
+indisposition continuing for more than seven consecutive days, the member shall
+be replaced in the manner of an original selection.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In any county:</p>
+            </content>
+            <paragraph eId="309-020__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county governing body may select one county resident from the pool
+described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to serve on a board instead of selecting a
+member of the county governing body.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any county resident appointed to the pool described in ORS 309.067</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="309-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>may
+serve on any board as needed for the efficient conduct of business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-020__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A particular member of a board shall not participate in the determination of a
+petition after the hearing if the board member did not hear and consider, as a
+member of the board, the evidence presented at the hearing.
+Note: Sections 41</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>and 42, chapter 29, Oregon Laws 2023, provide:
+Sec.
+41.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For the purpose of harmonizing and clarifying statutory law, the
+Legislative Counsel may substitute for words designating the “board of property
+tax appeals,” wherever they occur in statutory law, other words designating the
+“property value appeals board.” [2023 c.29 s41</p>
+            </content>
+          </subsection>
+          <subsection eId="309-020__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>]
+Sec.
+42.
+Section 41 of this 2023 Act is repealed on January 2, 2034.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-022">
+          <num>309.022</num>
+          <heading>Training; expenses; rules</heading>
+          <subsection eId="309-022__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each person appointed as a member of a pool under
+ORS 309.067 shall complete training approved by the Department of Revenue for
+the term of appointment. The department by rule may prescribe alternative methods
+of training on the basis of educational effectiveness, cost and accessibility
+to members.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-022__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Provision shall be made in the county budget for the following:</p>
+            </content>
+            <paragraph eId="309-022__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An amount sufficient to defray the reasonable expenses of the boards, including
+a per diem allowance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-022__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An amount sufficient to defray the necessary traveling and living expenses of
+each person whose name appears in the pools described in ORS 309.067 while
+completing training approved by the Department of Revenue as required under
+subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-022__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="309-022__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An amount sufficient to compensate any appraiser hired by the board under ORS
+309.024.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_309-024">
+          <num>309.024</num>
+          <heading>Record of proceedings; clerk; legal advisor; appraiser assistance</heading>
+          <subsection eId="309-024__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The property
+value appeals board shall keep a written or audio record of all proceedings.
+Notwithstanding ORS 192.650, no written minutes need be made.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-024__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The county clerk, as described in ORS 306.005, shall serve as clerk of the
+board. The clerk or deputy clerk shall attend sessions of the board at the
+discretion of the board as approved by the clerk.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-024__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The district attorney or the county counsel, at the discretion of the county
+clerk, shall be the legal advisor of the board unless there is a potential
+conflict of interest in the district attorney or county counsel serving as the
+legal advisor. If there is a potential conflict of interest, the county clerk
+may appoint independent counsel to serve as the legal advisor of the board. The
+legal advisor of the board, or the legal advisor’s deputy, may attend all
+sessions of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-024__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>At the discretion of the county clerk, the board may hire one or more
+appraisers registered under ORS 308.010, or licensed or certified under ORS
+674.310, and not otherwise employed by the county, and other necessary
+personnel for the purpose of aiding the board in carrying out its functions and
+duties under ORS 309.026. The boards of the various counties may make such
+reciprocal arrangements for the exchange of appraisers with other counties as
+will most effectively carry out the functions and duties of the boards. [1953
+c.714 s3; 1955 c.709 s3; 1957 c.326 s2; 1971 c.377 s2; 1973 c.336 s1; 1981 c.804
+s2; 1989 c.330 s16; 1991 c.5 s24; 1991 c.459 s189; 1993 c.270 s40; 1993 c.498 s3;
+1997 c.541 s225a; 2001 c.511 s2; 2005 c.94 s59; 2023 c.29 s21]
+Note: The amendments to
+309.024 by section 21, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.024.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-024__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The board of
+property tax appeals shall keep a written or audio record of all proceedings.
+Notwithstanding ORS 192.650, no written minutes need be made.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-024__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The county clerk, as described in ORS 306.005, shall serve as clerk of the
+board. The clerk or deputy clerk shall attend sessions of the board at the
+discretion of the board as approved by the clerk.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-024__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The district attorney or the county counsel, at the discretion of the county
+clerk, shall be the legal advisor of the board unless there is a potential conflict
+of interest in the district attorney or county counsel serving as the legal
+advisor. If there is a potential conflict of interest, the county clerk may
+appoint independent counsel to serve as the legal advisor of the board. The
+legal advisor of the board, or the legal advisor’s deputy, may attend all
+sessions of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-024__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>At the discretion of the county clerk, the board may hire one or more
+appraisers registered under ORS 308.010, or licensed or certified under ORS
+674.310, and not otherwise employed by the county, and other necessary
+personnel for the purpose of aiding the board in carrying out its functions and
+duties under ORS 309.026. The boards of the various counties may make such
+reciprocal arrangements for the exchange of appraisers with other counties as
+will most effectively carry out the functions and duties of the boards.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-025">
+          <num>309.025</num>
+          <heading>Notice of hearings on appeals of property value; proof of notice; persons interested may appear</heading>
+          <subsection eId="309-025__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Before the date the property value appeals board
+convenes, the clerk of the board shall give public notice that the board will
+meet at a specified time and place to hear the appeals specified in ORS
+309.026.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-025__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="309-025__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The notice provided under this section shall be given by posting notices in six
+conspicuous places in the county.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-025__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Proof of notice shall be made by affidavit of the clerk of the board, setting
+out the time, manner and place of posting the notices. The affidavit must be
+filed in the office of the county clerk on or before the day on which the board
+convenes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-025__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Persons interested may appear at the time and place appointed in the notice. [1991
+c.459 s194a; 1997 c.541 s226; 1999 c.579 s9; 2011 c.204 s8; 2023 c.29 s22]
+Note: The amendments to
+309.025 by section 22, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.025.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-025__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Before the
+date the board of property tax appeals convenes, the clerk of the board shall
+give public notice that the board will meet at a specified time and place to
+hear the appeals specified in ORS 309.026.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-025__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="309-025__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The notice provided under this section shall be given by posting notices in six
+conspicuous places in the county.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-025__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Proof of notice shall be made by affidavit of the clerk of the board, setting
+out the time, manner and place of posting the notices. The affidavit must be
+filed in the office of the county clerk on or before the day on which the board
+convenes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-025__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Persons interested may appear at the time and place appointed in the notice.
+Note: 309.025 was
+enacted into law by the Legislative Assembly but was not added to or made a
+part of ORS chapter 309 by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-026">
+          <num>309.026</num>
+          <heading>Sessions; hearing of petitions for reduction of property value; applications to waive penalty; adjournment</heading>
+          <subsection eId="309-026__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The property value appeals board may convene on
+or after the first Monday in February of each year, but not later than the date
+necessary for the board to complete the functions of the board by April 15. The
+board shall meet at the courthouse or courthouse annex. If the meeting place is
+other than the courthouse or annex, notice of the meeting place shall be posted
+daily in the courthouse. The board shall continue its sessions from day to day,
+exclusive of legal holidays, until the functions provided in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section are completed.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The board shall hear petitions for the reduction of:</p>
+            </content>
+            <paragraph eId="309-026__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The assessed value or specially assessed value of property as of January 1 or
+as determined under ORS 308.146</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="309-026__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-026__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The real market value of property as of January 1 or as determined under ORS
+308.146</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="309-026__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-026__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The maximum assessed value of property as of January 1 or as determined under
+ORS 308.146</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="309-026__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="309-026__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-026__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Corrections to value made under ORS 311.208.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The board shall hear petitions for the reduction of value as provided in
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section, but only if the value that is the subject of
+the petition was added to the roll prior to December 1 of the tax year.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The board shall consider applications to waive liability for all or a portion
+of the penalty imposed under ORS 308.295 or 308.296.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The board shall adjourn no later than April 15. [1955 c.709 s4; 1957 c.326 s3;
+1959 c.519 s3; 1971 c.377 s3; 1975 c.753 s3; 1979 c.241 s35; 1981 c.804 s3;
+1983 s.s. c.5 s9; 1985 c.318 s3; 1989 c.330 s4; 1991 c.459 s190; 1993 c.270 s41;
+1997 c.541 s227; 1999 c.579 s10; 1999 c.655 s5; 2001 c.422 s1; 2009 c.443 s3;
+2015 c.92 s4; 2023 c.29 s23]
+Note: The amendments to
+309.026 by section 23, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.026.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The board of
+property tax appeals may convene on or after the first Monday in February of
+each year, but not later than the date necessary for the board to complete the
+functions of the board by April 15. The board shall meet at the courthouse or
+courthouse annex. If the meeting place is other than the courthouse or annex,
+notice of the meeting place shall be posted daily in the courthouse. The board
+shall continue its sessions from day to day, exclusive of legal holidays, until
+the functions provided in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section are
+completed.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The board shall hear petitions for the reduction of:</p>
+            </content>
+            <paragraph eId="309-026__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The assessed value or specially assessed value of property as of January 1 or
+as determined under ORS 308.146</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="309-026__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-026__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The real market value of property as of January 1 or as determined under ORS
+308.146</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="309-026__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-026__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The maximum assessed value of property as of January 1 or as determined under
+ORS 308.146</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="309-026__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="309-026__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-026__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Corrections to value made under ORS 311.208.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-026__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The board shall hear petitions for the reduction of value as provided in
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section, but only if the value that is the subject of the
+petition was added to the roll prior to December 1 of the tax year.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The board shall consider applications to waive liability for all or a portion
+of the penalty imposed under ORS 308.295 or 308.296.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-026__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The board shall adjourn no later than April 15.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-067">
+          <num>309.067</num>
+          <heading>Pool of members</heading>
+          <subsection eId="309-067__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The county governing body shall appoint:</p>
+            </content>
+            <paragraph eId="309-067__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A pool of members of the county governing body or the governing body’s
+designees who are eligible and willing to serve as members of the county
+property value appeals board.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-067__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A pool of residents of the county who are not officers or employees of the
+county or of any taxing district within the county and who are eligible and
+willing to serve as members of the county property value appeals board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-067__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The number of names placed in pools shall be sufficient to meet the projected
+needs for board members for the term of selection for which the pools are
+prepared.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The pools shall contain the names, addresses and telephone numbers of the
+persons in the pools and shall include a brief description of the training
+under ORS 309.022 in which the person has or will have participated before any
+term as a board member begins. The pools of appointed persons shall be filed in
+the records of the county clerk.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A newly filed pool of names shall take precedence over any previously filed
+pool of names. The county governing body shall designate the date when a newly
+filed pool of names shall become effective. After a newly prepared pool of
+names becomes effective, board members shall not be selected from a previously
+filed pool of names.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The appointment of pools described in this section shall be made by the county
+governing body on or before October 15 of each year or at any other time upon
+the request of the county clerk at a regular meeting of the governing body or
+at a special meeting called by the chairperson of the county governing body.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Appointments made under this section shall be in writing and shall designate
+the pool to which the member was appointed. [1995 c.226 s2; 1997 c.541 s229;
+2023 c.29 s24; 2023 c.38 s2]
+Note: The amendments to
+309.067 by section 24, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, including amendments by section 2, chapter 38, Oregon Laws
+2023, is set forth for the user’s convenience.
+309.067.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The county
+governing body shall appoint:</p>
+            </content>
+            <paragraph eId="309-067__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A pool of members of the county governing body or the governing body’s
+designees who are eligible and willing to serve as members of the county board of
+property tax appeals.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-067__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A pool of residents of the county who are not officers or employees of the
+county or of any taxing district within the county and who are eligible and
+willing to serve as members of the county board of property tax appeals.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-067__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The number of names placed in pools shall be sufficient to meet the projected
+needs for board members for the term of selection for which the pools are
+prepared.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The pools shall contain the names, addresses and telephone numbers of the persons
+in the pools and shall include a brief description of the training under ORS
+309.022 in which the person has or will have participated before any term as a
+board member begins. The pools of appointed persons shall be filed in the
+records of the county clerk.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A newly filed pool of names shall take precedence over any previously filed
+pool of names. The county governing body shall designate the date when a newly
+filed pool of names shall become effective. After a newly prepared pool of
+names becomes effective, board members shall not be selected from a previously
+filed pool of names.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The appointment of pools described in this section shall be made by the county
+governing body on or before October 15 of each year or at any other time upon
+the request of the county clerk at a regular meeting of the governing body or
+at a special meeting called by the chairperson of the county governing body.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-067__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Appointments made under this section shall be in writing and shall designate
+the pool to which the member was appointed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-070">
+          <num>309.070</num>
+          <heading>Oath</heading>
+          <content>
+            <p>Before proceeding to the functions and duties required by this chapter, each
+member of the property value appeals board shall take and subscribe to an oath
+to faithfully and honestly discharge the duties of the board. The oath shall be
+administered by a member of the board and shall be filed with the county clerk.
+[Amended by 1979 c.241 s41; 1981 c.804 s13; 1991 c.459 s195; 1995 c.226 s9;
+1997 c.541 s230; 2023 c.29 s25]
+Note: The amendments to
+309.070 by section 25, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.070. Before proceeding
+to the functions and duties required by this chapter, each member of the board
+of property tax appeals shall take and subscribe to an oath to faithfully and
+honestly discharge the duties of the board. The oath shall be administered by a
+member of the board and shall be filed with the county clerk.</p>
+          </content>
+        </section>
+        <section eId="sec_309-072">
+          <num>309.072</num>
+          <heading>Record of board business</heading>
+          <content>
+            <p>The meetings, qualification, sittings and adjournment
+of the property value appeals boards shall be recorded in the journal of the
+county governing body. [Formerly 309.140; 1995 c.226 s10; 1997 c.541 s231; 2023
+c.29 s26]
+Note: The amendments to
+309.072 by section 26, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.072. The meetings,
+qualification, sittings and adjournment of the boards of property tax appeals
+shall be recorded in the journal of the county governing body.</p>
+          </content>
+        </section>
+        <section eId="sec_309-100">
+          <num>309.100</num>
+          <heading>Petitions for reduction of property value; filing; hearings; notice of hearing; representation at hearing</heading>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in ORS 305.403, the owner or
+an owner of any taxable property or any person who holds an interest in the
+property that obligates the person to pay taxes imposed on the property, may
+petition the property value appeals board for relief as authorized under ORS
+309.026. As used in this subsection, an interest that obligates the person to
+pay taxes includes a contract, lease or other intervening instrumentality.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Petitions filed under this section shall be filed with the clerk of the board
+during the period following the date the tax statements are mailed or otherwise
+delivered for the current tax year and ending December 31.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Each petition shall:</p>
+            </content>
+            <paragraph eId="309-100__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be made in writing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>State the facts and the grounds upon which the petition is made.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be signed and verified by the oath of a person described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="309-100__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>State the address to which notice of the action of the board shall be sent. The
+notice may be sent to a person described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this
+section.</p>
+            </content>
+            <paragraph eId="309-100__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>State if the petitioner or a representative desires to appear at a hearing
+before the board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="309-100__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following persons may sign a petition and appear before the board on behalf
+of a person described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section:
+(A)
+A relative, as defined by rule adopted by the Department of Revenue, of an
+owner of the property.
+(B)
+A person duly qualified to practice law or public accountancy in this state.
+(C)
+A legal guardian or conservator who is acting on behalf of an owner of the
+property.
+(D)
+A real estate broker or principal real estate broker licensed under ORS
+696.022.
+(E)
+A state certified appraiser or a state licensed appraiser under ORS 674.310 or
+a registered appraiser under ORS 308.010.
+(F)
+The lessee of the property.
+(G)
+An attorney-in-fact under a general power of attorney executed by a principal
+who is an owner of the property.</p>
+            </content>
+            <paragraph eId="309-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A petition signed by a person described in this subsection, other than a legal
+guardian or conservator of a property owner, an attorney-in-fact described in
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <subparagraph eId="309-100__subsec_1__subsec_a__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>of this subsection or a person duly qualified to practice law
+in this state, shall include written authorization for the person to act on
+behalf of the owner or other person described in subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this
+section. The authorization shall be signed by the owner or other person
+described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="309-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In the case of a petition signed by a legal guardian or conservator, the board
+may request the guardian or conservator to authenticate the guardianship or
+conservatorship.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In the case of a petition signed by an attorney-in-fact described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <subparagraph eId="309-100__subsec_1__subsec_a__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>of this subsection, the petition shall be accompanied by a copy of the
+general power of attorney.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the petitioner has requested a hearing before the board, the board shall
+give such petitioner at least five days’ written notice of the time and place
+to appear. If the board denies any petition upon the grounds that it does not
+meet the requirements of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section, it shall issue a
+written order rejecting the petition and set forth in the order the reasons the
+board considered the petition to be defective.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Notwithstanding ORS 9.160 or 9.320, the owner or other person described in
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section may appear and represent himself or herself at
+the hearing before the board, or may be represented at the hearing by any
+authorized person described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section. [Amended by 1955
+c.709 s14; 1959 c.56 s1; 1967 c.78 s5; 1969 c.561 s2; 1971 c.377 s9; 1973 c.402
+s34; 1981 c.804 s16; 1983 c.603 s2; 1983 s.s. c.5 s16; 1987 c.808 s1; 1989
+c.330 s12; 1991 c.5 s25; 1991 c.459 s196; 1993 c.270 s42; 1995 c.79 s136; 1995
+c.467 s1; 1997 c.541 s232; 1999 c.579 ss11,11a; 2001 c.300 s60; 2003 c.120 s1;
+2009 c.33 s9; 2011 c.111 s2; 2019 c.360 s1; 2023 c.29 s27]
+Note: The amendments to
+309.100 by section 27, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.100.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as
+provided in ORS 305.403, the owner or an owner of any taxable property or any
+person who holds an interest in the property that obligates the person to pay
+taxes imposed on the property, may petition the board of property tax appeals
+for relief as authorized under ORS 309.026. As used in this subsection, an
+interest that obligates the person to pay taxes includes a contract, lease or
+other intervening instrumentality.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Petitions filed under this section shall be filed with the clerk of the board
+during the period following the date the tax statements are mailed or otherwise
+delivered for the current tax year and ending December 31.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Each petition shall:</p>
+            </content>
+            <paragraph eId="309-100__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be made in writing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>State the facts and the grounds upon which the petition is made.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be signed and verified by the oath of a person described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="309-100__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>State the address to which notice of the action of the board shall be sent. The
+notice may be sent to a person described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this
+section.</p>
+            </content>
+            <paragraph eId="309-100__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>State if the petitioner or a representative desires to appear at a hearing
+before the board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="309-100__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following persons may sign a petition and appear before the board on behalf
+of a person described in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section:
+(A)
+A relative, as defined by rule adopted by the Department of Revenue, of an
+owner of the property.
+(B)
+A person duly qualified to practice law or public accountancy in this state.
+(C)
+A legal guardian or conservator who is acting on behalf of an owner of the
+property.
+(D)
+A real estate broker or principal real estate broker licensed under ORS
+696.022.
+(E)
+A state certified appraiser or a state licensed appraiser under ORS 674.310 or
+a registered appraiser under ORS 308.010.
+(F)
+The lessee of the property.
+(G)
+An attorney-in-fact under a general power of attorney executed by a principal
+who is an owner of the property.</p>
+            </content>
+            <paragraph eId="309-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A petition signed by a person described in this subsection, other than a legal
+guardian or conservator of a property owner, an attorney-in-fact described in
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <subparagraph eId="309-100__subsec_1__subsec_a__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>of this subsection or a person duly qualified to practice law
+in this state, shall include written authorization for the person to act on
+behalf of the owner or other person described in subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this
+section. The authorization shall be signed by the owner or other person
+described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="309-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In the case of a petition signed by a legal guardian or conservator, the board
+may request the guardian or conservator to authenticate the guardianship or
+conservatorship.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In the case of a petition signed by an attorney-in-fact described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <subparagraph eId="309-100__subsec_1__subsec_a__subsec_G">
+                <num>(G)</num>
+                <content>
+                  <p>of this subsection, the petition shall be accompanied by a copy of the
+general power of attorney.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-100__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the petitioner has requested a hearing before the board, the board shall
+give such petitioner at least five days’ written notice of the time and place
+to appear. If the board denies any petition upon the grounds that it does not
+meet the requirements of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section, it shall issue a
+written order rejecting the petition and set forth in the order the reasons the
+board considered the petition to be defective.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Notwithstanding ORS 9.160 or 9.320, the owner or other person described in
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section may appear and represent himself or herself at
+the hearing before the board, or may be represented at the hearing by any
+authorized person described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-100__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-104">
+          <num>309.104</num>
+          <heading>Electronic filing; rules</heading>
+          <content>
+            <p>The Department of Revenue may prescribe rules that
+provide for the filing of a petition under ORS 309.100 and related written
+material, including signatures and verifications, by electronic means and may
+prescribe the conditions and requirements that must be met in order for an
+electronic filing to meet the requirements of ORS 309.100.</p>
+          </content>
+        </section>
+        <section eId="sec_309-110">
+          <num>309.110</num>
+          <heading>Disposition of petitions; orders; mailing or delivery; stipulations; amended orders; appeals</heading>
+          <subsection eId="309-110__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The disposition of every petition before a property value appeals board,
+other than a petition that is resolved by stipulation under ORS 308.242, and
+the board’s determination thereon shall be recorded by formal order and entered
+in the record of the board. A copy of the order as to each petition shall be
+sent, by mail, to the petitioner at the post-office address given in the
+petition. When a copy of a board’s order is personally delivered to the
+petitioner, the requirement to mail a copy of the order is waived. A copy of
+each order shall be delivered to the assessor and the officer in charge of the
+roll on the same day that the order is mailed or delivered to the petitioner.
+The orders of a board shall specify what changes shall be made in the tax roll,
+if any, and shall direct the officer in charge of the roll to make them. The
+legal advisor of the board shall be available to aid a board in the preparation
+of its orders.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a petition is filed with the board that is resolved by stipulation under ORS
+308.242 prior to the date the board convenes, the stipulation shall be entered
+into the record of the board. The requirements for recording by formal order,
+mailing and delivery under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section do not apply to a
+stipulation entered into the record under this subsection. For all other
+purposes, a petition that is resolved by stipulation under ORS 308.242 prior to
+the date the board convenes shall be treated as if the petition had been
+withdrawn.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="309-110__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A board may issue amended orders to correct clerical errors or errors of
+jurisdiction appearing in its original orders.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-110__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A board may authorize a board member or clerk of the board to amend board
+orders on behalf of the board for the purpose of correcting clerical errors.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-110__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Amended orders correcting an error of jurisdiction may be issued only during a
+board’s session, or by call of the chairperson.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An amended order correcting a clerical error or an error of jurisdiction must
+be made on or before June 30 of the year in which the original order was issued
+by the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section shall apply to amended orders,
+unless the context requires otherwise. Amended orders shall be mailed to the
+petitioner and delivered to the assessor and the officer in charge of the roll
+not later than five days after the adjournment of a board’s meetings or five
+days after the date the order is amended, whichever is later.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The order of a board, other than an order relating to an application to excuse
+liability for the penalty imposed under ORS 308.295, may be appealed to the
+magistrate division of the Oregon Tax Court.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="309-110__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>“Clerical error” means an error in an order that either arises from an error in
+the minutes of a board or is a failure to correctly reflect the minutes of a
+board and that, had it been discovered prior to the order being issued, would
+have been corrected as a matter of course. In order to be a clerical error, the
+information necessary to make the correction must be contained in the minutes
+of the board. Such errors include, but are not limited to, arithmetic and
+copying errors and omission or misstatement of identification of property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-110__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>“Error of jurisdiction” means an error in an order resulting from a board’s
+failure to correctly apply the board’s authority as granted under ORS 309.026. [Amended
+by 1957 c.326 s6; 1959 c.666 s1; 1977 c.884 s14; 1981 c.804 s19; 1983 c.602 s1;
+1985 c.318 s6; 1985 c.613 s23; 1989 c.330 s14; 1991 c.459 s198; 1993 c.498 s4;
+1995 c.226 s11; 1997 c.541 s233; 1999 c.21 s23; 1999 c.340 s5; 1999 c.579 s12;
+2001 c.114 s22; 2001 c.511 s3; 2003 c.35 s1; 2023 c.29 s28]
+Note: The amendments to
+309.110 by section 28, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.110.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-110__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The
+disposition of every petition before a board of property tax appeals, other
+than a petition that is resolved by stipulation under ORS 308.242, and the
+board’s determination thereon shall be recorded by formal order and entered in
+the record of the board. A copy of the order as to each petition shall be sent,
+by mail, to the petitioner at the post-office address given in the petition.
+When a copy of a board’s order is personally delivered to the petitioner, the
+requirement to mail a copy of the order is waived. A copy of each order shall
+be delivered to the assessor and the officer in charge of the roll on the same
+day that the order is mailed or delivered to the petitioner. The orders of a
+board shall specify what changes shall be made in the tax roll, if any, and
+shall direct the officer in charge of the roll to make them. The legal advisor
+of the board shall be available to aid a board in the preparation of its
+orders.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a petition is filed with the board that is resolved by stipulation under ORS
+308.242 prior to the date the board convenes, the stipulation shall be entered
+into the record of the board. The requirements for recording by formal order,
+mailing and delivery under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section do not apply to a
+stipulation entered into the record under this subsection. For all other
+purposes, a petition that is resolved by stipulation under ORS 308.242 prior to
+the date the board convenes shall be treated as if the petition had been
+withdrawn.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="309-110__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A board may issue amended orders to correct clerical errors or errors of
+jurisdiction appearing in its original orders.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-110__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A board may authorize a board member or clerk of the board to amend board
+orders on behalf of the board for the purpose of correcting clerical errors.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-110__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Amended orders correcting an error of jurisdiction may be issued only during a
+board’s session, or by call of the chairperson.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An amended order correcting a clerical error or an error of jurisdiction must
+be made on or before June 30 of the year in which the original order was issued
+by the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The provisions of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section shall apply to amended orders,
+unless the context requires otherwise. Amended orders shall be mailed to the
+petitioner and delivered to the assessor and the officer in charge of the roll
+not later than five days after the adjournment of a board’s meetings or five
+days after the date the order is amended, whichever is later.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The order of a board, other than an order relating to an application to excuse
+liability for the penalty imposed under ORS 308.295, may be appealed to the
+magistrate division of the Oregon Tax Court.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-110__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="309-110__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>“Clerical error” means an error in an order that either arises from an error in
+the minutes of a board or is a failure to correctly reflect the minutes of a
+board and that, had it been discovered prior to the order being issued, would
+have been corrected as a matter of course. In order to be a clerical error, the
+information necessary to make the correction must be contained in the minutes
+of the board. Such errors include, but are not limited to, arithmetic and
+copying errors and omission or misstatement of identification of property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-110__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>“Error of jurisdiction” means an error in an order resulting from a board’s
+failure to correctly apply the board’s authority as granted under ORS 309.026.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_309-115">
+          <num>309.115</num>
+          <heading>Term of order correcting real market value; permissible adjustments; exceptions</heading>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the Department of Revenue, the property value appeals board or the tax
+court or other court enters an order correcting the real market value of a
+separate assessment of property and there is no further appeal from that order,
+except as provided under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section, the value so
+entered shall be the real market value entered on the assessment and tax rolls
+for the five assessment years next following the year for which the order is
+entered.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section, the following adjustments may
+be made to the real market value during the period described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+            <paragraph eId="309-115__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Annual trending or indexing applied to all properties of the same property
+class in the county, or within clearly defined areas of the county under this
+chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Annual trending or depreciation factors applied to similar property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Additions or retirements based upon returns filed under ORS 308.290.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Additions, retirements or economic trending from the annual valuations under
+ORS 308.505 to 308.674.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Increases directly related to additions, remodeling or rehabilitation made to
+property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Changes directly related to subdividing or partitioning the property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Changes directly related to rezoning the property and using the property
+consistent with the rezoning.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Property damaged, destroyed or otherwise subject to loss of real market value.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Changes indicated by a subsequent sale of the property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-115__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In the case of state-appraised industrial property as defined in ORS 306.126,
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section does not apply to changes in real market value
+as a result of:</p>
+            </content>
+            <paragraph eId="309-115__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Annual trending or depreciation factors applied by type of property to
+industrial or personal property;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Additions or retirements based upon returns filed under ORS 308.290; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Property damaged, destroyed or otherwise subject to loss of real market value.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-115__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If, during the five-year period described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section,
+another order correcting the real market value of the property subject to
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section is entered, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section shall
+apply for the five assessment years next following the year the later order is
+entered. [1989 c.678 s2; 1991 c.459 s198a; 1995 c.650 s65; 1997 c.154 ss45,46;
+1997 c.541 ss234,235; 1999 c.579 s28; 2001 c.6 s1; 2015 c.36 s12; 2019 c.380 s1;
+2023 c.29 s29]
+Note: The amendments to
+309.115 by section 29, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.115.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the
+Department of Revenue, the board of property tax appeals or the tax court or
+other court enters an order correcting the real market value of a separate
+assessment of property and there is no further appeal from that order, except
+as provided under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section, the value so entered
+shall be the real market value entered on the assessment and tax rolls for the
+five assessment years next following the year for which the order is entered.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section, the following adjustments may
+be made to the real market value during the period described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+            <paragraph eId="309-115__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Annual trending or indexing applied to all properties of the same property
+class in the county, or within clearly defined areas of the county under this
+chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Annual trending or depreciation factors applied to similar property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Additions or retirements based upon returns filed under ORS 308.290.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Additions, retirements or economic trending from the annual valuations under
+ORS 308.505 to 308.674.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Increases directly related to additions, remodeling or rehabilitation made to
+property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Changes directly related to subdividing or partitioning the property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Changes directly related to rezoning the property and using the property
+consistent with the rezoning.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Property damaged, destroyed or otherwise subject to loss of real market value.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Changes indicated by a subsequent sale of the property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-115__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In the case of state-appraised industrial property as defined in ORS 306.126,
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section does not apply to changes in real market value
+as a result of:</p>
+            </content>
+            <paragraph eId="309-115__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Annual trending or depreciation factors applied by type of property to
+industrial or personal property;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Additions or retirements based upon returns filed under ORS 308.290; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-115__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Property damaged, destroyed or otherwise subject to loss of real market value.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-115__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If, during the five-year period described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section,
+another order correcting the real market value of the property subject to
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section is entered, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section shall
+apply for the five assessment years next following the year the later order is
+entered.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-120">
+          <num>309.120</num>
+          <heading>Entry in roll of corrections, additions or changes</heading>
+          <content>
+            <p>Corrections,
+additions to, or changes in the roll shall be entered in the roll by the
+officer in charge of the roll in a manner clearly showing that the assessor’s
+prior entry, if any, has been superseded, and showing the entry ordered by the
+property value appeals board, indicating the change substantially “as ordered
+by the county property value appeals board.” The entries shall be a part of the
+record of the action of the board. [Amended by 1957 c.326 s7; 1981 c.804 s20;
+1991 c.459 s199; 1997 c.541 s237; 2023 c.29 s30]
+Note: The amendments to
+309.120 by section 30, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.120. Corrections,
+additions to, or changes in the roll shall be entered in the roll by the
+officer in charge of the roll in a manner clearly showing that the assessor’s
+prior entry, if any, has been superseded, and showing the entry ordered by the
+board of property tax appeals, indicating the change substantially “as ordered
+by the county board of property tax appeals.” The entries shall be a part of
+the record of the action of the board.</p>
+          </content>
+        </section>
+        <section eId="sec_309-150">
+          <num>309.150</num>
+          <heading>Appeals of personal property value upon summary or accelerated collection of taxes</heading>
+          <content>
+            <p>Appeals of the value of personal property, on which the tax is required to be
+paid as provided in ORS 311.465 and 311.480, shall be heard by a property value
+appeals board in the same manner that other assessments of property are heard. [Amended
+by 1975 c.365 s2; 1981 c.804 s22; 1991 c.459 s201; 1995 c.226 s12; 1997 c.541 s238;
+2023 c.29 s31]
+Note: The amendments to
+309.150 by section 31, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.150. Appeals of the
+value of personal property, on which the tax is required to be paid as provided
+in ORS 311.465 and 311.480, shall be heard by a board of property tax appeals
+in the same manner that other assessments of property are heard.</p>
+          </content>
+        </section>
+        <section eId="sec_309-200">
+          <num>309.200</num>
+          <heading>Assessor to collect sales data and prepare ratio study; filing study with department and board</heading>
+          <subsection eId="309-200__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Between January 1 and December 31 of each year the county assessor shall
+collect sales data for a ratio study.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-200__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The assessor shall prepare and complete a certified ratio study in the time and
+manner provided by the rules adopted by the Department of Revenue. A copy of
+the sales data collected and used as the basis for conclusions relating to real
+market value shall be included with the ratio study. The assessor shall file a
+certified copy of the sales data and ratio study with the department, as
+prescribed by department rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-200__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Not later than October 15 of each year the assessor shall file with the clerk
+of the property value appeals board a copy of the ratio study. [1975 c.753 s2;
+1981 c.804 s23; 1985 c.613 s24; 1989 c.330 s18; 1991 c.459 s202; 1993 c.270 s43;
+1997 c.541 s239; 1999 c.655 s7; 2023 c.29 s32]
+Note: The amendments to
+309.200 by section 32, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+309.200.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-200__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Between
+January 1 and December 31 of each year the county assessor shall collect sales
+data for a ratio study.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-200__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The assessor shall prepare and complete a certified ratio study in the time and
+manner provided by the rules adopted by the Department of Revenue. A copy of
+the sales data collected and used as the basis for conclusions relating to real
+market value shall be included with the ratio study. The assessor shall file a
+certified copy of the sales data and ratio study with the department, as
+prescribed by department rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-200__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Not later than October 15 of each year the assessor shall file with the clerk
+of the board of property tax appeals a copy of the ratio study.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-203">
+          <num>309.203</num>
+          <heading>Real market value standard; compliance; recommendations or orders by department; examination of ratio study; action if standard in jeopardy</heading>
+          <subsection eId="309-203__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>On or before
+June 15 of each year, the Department of Revenue shall give specific written
+recommendations or orders to the county assessor as to the actions which, in
+the department’s judgment, should be taken by the assessor in order to achieve
+compliance with the real market value standard required under ORS 308.232 in
+the forthcoming assessment roll. Copies shall be sent to the county governing
+body for their information. On or before July 15 following, the county assessor
+shall act upon the recommendations or orders of the department, or notify the
+department in writing, of any objections to the department’s recommendations or
+orders.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-203__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>After May 1, but prior to September 1, the department shall examine the
+certified ratio study prepared by each county assessor under ORS 309.200 and
+studies prepared by the department, to determine if the value of all locally
+assessed taxable properties complies with the real market value requirements of
+ORS 308.232. The assessor and the department shall cooperate with each other to
+keep the department informed as to the assessor’s needs and as to the status of
+the current assessment work. If, in the judgment of the department, the
+attainment of the real market value standard required under ORS 308.232 is in
+jeopardy, the department shall notify the assessor in writing of the
+determination and the factors giving rise to it, with the statement that if unfulfilled
+statutory duties specified by the department are not met, the department shall
+take action pursuant to this section. A copy of such notice shall be sent to
+the county governing body, for its information. On or before September 1, the
+department shall issue a written order to the assessor to adjust the classes of
+property on the assessment roll:</p>
+            </content>
+            <paragraph eId="309-203__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the department finds that the ratio of all taxable properties deviates more
+than five percent from the real market value level required by ORS 308.232, the
+department shall order an adjustment to the real market values that will result
+in compliance with ORS 308.232. The assessor shall apply the adjustment to real
+market values on the assessment roll and compute corrected assessed values if
+necessary. A tolerance of five percent from 100 percent may be presumed by the
+department to meet the requirements of ORS 308.232. Notwithstanding
+satisfactory compliance with the provisions of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-203__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this
+subsection, the department shall take any action necessary to achieve the real
+market value level required by ORS 308.232.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-203__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the department finds that the real market value for any class of property
+provided for under ORS 308.215 deviates more than 10 percent from 100 percent
+of real market value for the class, the department shall order a change of
+values to bring the class to 100 percent of real market value. The order may be
+made applicable to the class throughout the county or to the class in specific
+areas of the county and may take into account variations caused by appraisals
+being made in different years.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="309-203__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the department’s order results in a valuation increase, the increase may be
+appealed in the manner provided by ORS 309.100.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="309-203__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the department orders an adjustment to the real market values of property
+under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="309-203__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section, the department shall immediately give
+notice to the assessor, showing why the adjustment is ordered. [Formerly
+309.035; 2001 c.509 s1]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-310">
+          <num>309.310</num>
+          <heading>“Department” defined for ORS 309.330 to 309.400</heading>
+          <content>
+            <p>As used in ORS
+309.330 to 309.400, “department” means the Department of Revenue.</p>
+          </content>
+        </section>
+        <section eId="sec_309-330">
+          <num>309.330</num>
+          <heading>Transmission of summary of assessment roll by assessor</heading>
+          <subsection eId="309-330__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>After the
+assessment roll of any county has been delivered to the tax collector as
+required by ORS 311.115, the county assessor shall transmit to the Director of
+the Department of Revenue within 10 days after the roll is delivered to the tax
+collector, but not later than November 4, a certified copy of the summary of
+the assessment roll.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-330__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The summary of the assessment roll shall be shown on forms prescribed by the
+Department of Revenue with such classification of property as the director
+shall specify. [Amended by 1969 c.520 s34; 1977 c.220 s1; 1981 c.804 s111; 1991
+c.459 s202b]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-340">
+          <num>309.340</num>
+          <heading>Recording and tabulating assessment roll summaries</heading>
+          <content>
+            <p>Upon the receipt
+of tabulated summaries of the assessment rolls, the Department of Revenue shall
+record the summaries in a book provided and kept in its office for that purpose
+and shall, subject to the instructions of the Director of the Department of
+Revenue, compile the summaries into tabular form for the use of the director. [Amended
+by 1969 c.520 s35; 1977 c.220 s2]</p>
+          </content>
+        </section>
+        <section eId="sec_309-360">
+          <num>309.360</num>
+          <heading>Examining summaries; obtaining other information</heading>
+          <content>
+            <p>The Department of
+Revenue shall examine and compare the summaries of the assessment rolls as certified
+by the county assessors and may obtain such other information as the department
+considers necessary to ascertain and determine the true and relative value of
+all the taxable property in the several counties, including property assessed
+by the department. [Amended by 1991 c.459 s203a]</p>
+          </content>
+        </section>
+        <section eId="sec_309-370">
+          <num>309.370</num>
+          <heading>Combined assessment roll summaries</heading>
+          <content>
+            <p>After the Department of Revenue has
+examined and compared the summaries and obtained the other necessary
+information, the department shall combine the result in a table. When approved
+by the Director of the Department of Revenue, a table shall be signed by the
+director and retained on file in the department. [Amended by 1969 c.520 s37;
+1981 c.804 s25; 1985 c.761 s14; 1991 c.459 s203b; 1993 c.98 s14; 1997 c.541 s240]</p>
+          </content>
+        </section>
+        <section eId="sec_309-400">
+          <num>309.400</num>
+          <heading>Ordering or making change of valuation or addition of property</heading>
+          <subsection eId="309-400__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The
+Department of Revenue may order any officer in charge of the assessment roll to
+raise or lower the valuation of any taxable property and to add property to the
+assessment roll.</p>
+            </content>
+          </subsection>
+          <subsection eId="309-400__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If an officer fails to comply with any order or requirement of the department,
+the department may make the correction or change in the assessment roll. [Amended
+by 1953 c.22 s2; 1991 c.96 s7; 1991 c.459 s204]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_309-990">
+          <num>309.990</num>
+          <heading>Penalties</heading>
+          <subsection eId="309-990__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="309-990__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>enacted as 1955 c.709 s15; 1969 c.520 s39; 1971 c.377 s11; 1981
+c.804 s27; 2005 c.94 s60]
+_______________</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ORS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-306"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-306"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#oregon-legislature"/>
+          <FRBRcountry value="us-or"/>
+          <FRBRnumber value="306"/>
+          <FRBRname value="ORS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-306/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-306/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-or/act/ors/chapter-306/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-or/act/ors/chapter-306/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="oregon-legislature" href="https://www.oregonlegislature.gov" showAs="Oregon State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_306">
+        <num>306</num>
+        <heading>Miscellaneous Tax and Revenue Provisions</heading>
+        <section eId="sec_306-005">
+          <num>306.005</num>
+          <heading>Property tax law definitions applicable in charter counties</heading>
+          <subsection eId="306-005__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Assessor” includes, in a county having a county charter, the individual or
+officer performing thereunder the duties imposed upon assessors with respect to
+ad valorem taxes by the laws of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-005__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Clerk” or “county clerk” includes, in a county having a county charter, the
+individual or officer performing thereunder the duties imposed upon county
+clerks with respect to ad valorem taxes by the laws of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-005__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Court” or “county court” includes, in a county having a county charter, the
+body performing thereunder the duties imposed upon county courts with respect
+to ad valorem taxes by the laws of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-005__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Sheriff” includes, in a county having a county charter, the individual or
+officer performing thereunder the duties imposed upon sheriffs with respect to
+ad valorem taxes by the laws of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-005__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Tax collector” includes, in a county having a county charter, the individual
+or officer performing thereunder the duties imposed upon tax collectors with
+respect to ad valorem taxes by the laws of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-005__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>“Treasurer” includes, in a county having a county charter, the individual or
+officer performing thereunder the duties imposed upon treasurers with respect
+to ad valorem taxes by the laws of this state.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-113">
+          <num>306.113</num>
+          <heading>Legislative findings</heading>
+          <content>
+            <p>The Legislative Assembly finds that for the property tax system to function
+appropriately it is essential that administration be results-based, innovative
+and efficient. Any direction to, or review of, county administration by the
+State of Oregon shall carry out this finding. [1997 c.782 s1]
+Note: 306.113 was
+enacted into law by the Legislative Assembly but was not added to or made a
+part of ORS chapter 306 or any series therein by legislative action. See
+Preface to Oregon Revised Statutes for further explanation.</p>
+          </content>
+        </section>
+        <section eId="sec_306-115">
+          <num>306.115</num>
+          <heading>General supervision over property tax system; correction of assessment or tax rolls</heading>
+          <subsection eId="306-115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue shall exercise general supervision and control
+over the system of property taxation throughout the state. The department may
+do any act or give any order to any public officer or employee that the
+department deems necessary in the administration of the property tax laws so
+that all properties are taxed or are exempted from taxation according to the
+statutes and Constitutions of the State of Oregon and of the United States.
+Among other acts or orders deemed necessary by the department in exercising its
+supervisory powers, the department may order the correction of clerical errors,
+errors in valuation or the correction of any other kind of error or omission in
+an assessment or tax roll as provided under subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>to</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this
+section.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department may order a change or correction to the assessment or tax roll
+for the current tax year applicable to all real or personal property of the
+same class or in the same area if the order of the department is mailed not
+later than October 15 of the current tax year.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department may order a change or correction applicable to a separate
+assessment of property to the assessment or tax roll for the current tax year
+and for either of the two tax years immediately preceding the current tax year
+if for the year to which the change or correction is applicable the department
+discovers reason to correct the roll which, in its discretion, it deems
+necessary to conform the roll to applicable law without regard to any failure
+to exercise a right of appeal.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Before ordering a change or correction to the assessment or tax roll under
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section, the department may determine whether any of the
+conditions specified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section exist in a particular
+case. If the department determines that one of the conditions specified does
+exist, the department shall hold a conference to determine whether to order a
+change or correction in the roll.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>For purposes of this section, “current tax year” means the tax year in which
+the need for the change or correction is brought to the attention of the
+department.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-115__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The remedies provided under this section are in addition to all other remedies
+provided by law.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-117">
+          <num>306.117</num>
+          <heading>Property tax services emergencies</heading>
+          <subsection eId="306-117__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the governing body of a county
+believes that the county is in a state of fiscal distress that compromises the
+county’s ability to provide a minimally adequate level of property tax
+assessment services or property tax collection services, the governing body may
+request that the Governor declare a property tax assessment services emergency,
+a property tax collection services emergency or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-117__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Upon request pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-117__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section, the Governor shall
+consult with the Director of the Department of Revenue to determine whether to
+declare a property tax assessment services emergency, a property tax collection
+services emergency or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-117__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Within 14 days after consultation with the director pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-117__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section, the Governor shall:</p>
+            </content>
+            <paragraph eId="306-117__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Declare the existence of a property tax assessment services emergency, a
+property tax collection services emergency or both in the county; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-117__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Issue a determination that the county’s fiscal situation does not cause the
+county to provide a less than minimally adequate level of property tax
+assessment services or property tax collection services, as applicable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>As soon as practicable after declaration of an emergency under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-117__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="306-117__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this section and after consultation with the tax assessor and tax
+collector of the county, the Department of Revenue shall provide services in
+the county to the extent necessary to ensure a minimally adequate level of
+property tax assessment services, property tax collection services or both to
+all municipal corporations in the county.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="306-117__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When an emergency is declared in a county pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="306-117__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this
+section, the department shall immediately:</p>
+              </content>
+              <subparagraph eId="306-117__subsec_3__subsec_a__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Discontinue grants to the county from the County Assessment Function Funding
+Assistance Account created under ORS 294.184; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="306-117__subsec_3__subsec_a__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Notify the State Treasurer to discontinue all distributions to the county of
+state-shared funds that are not otherwise dedicated by law.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="306-117__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within 30 days following the close of each fiscal quarter, the department shall
+submit to the governing body of the county and the Secretary of State an
+itemized statement of the department’s actual costs incurred in providing services
+in the county and the amount of the grants that the county would have received,
+but for this subsection, from the County Assessment Function Funding Assistance
+Account for the period covered by the statement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-117__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall be reimbursed for the costs in the statement submitted
+under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-117__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this subsection as follows:</p>
+              </content>
+              <subparagraph eId="306-117__subsec_3__subsec_b__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The department shall transfer to the Assessment and Taxation County Account
+described in ORS 306.125 the amount of grant funds that would have been
+distributed to the county from the County Assessment Function Funding
+Assistance Account for the period covered by the statement; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="306-117__subsec_3__subsec_b__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>If the amount transferred under subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="306-117__subsec_3__subsec_b__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>of this paragraph is less than
+the department’s stated costs, the State Treasurer, upon the order of the
+Secretary of State, shall transfer to the Assessment and Taxation County
+Account all state-shared funds not otherwise dedicated by law that, but for
+this subsection, would have been distributed to the county for the period
+covered by the statement.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="306-117__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the amounts received by the department under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-117__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of this
+subsection are less than the department’s stated costs for the period covered
+by the statement submitted under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-117__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this subsection, the
+department shall seek reimbursement of the remaining costs, and such additional
+spending authority as the department considers necessary to carry out its
+duties under this section, from the Emergency Board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>At any time after declaration of an emergency pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-117__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="306-117__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of
+this section, the governing body of the county or the director may request that
+the Governor, after consultation with the director, issue a determination
+pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="306-117__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The county shall resume providing property tax assessment services and property
+tax collection services, as applicable, to all municipal corporations in the
+county on the earlier of:</p>
+            </content>
+            <paragraph eId="306-117__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The date on which a determination is issued pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>of this
+section; or</p>
+            </content>
+            <paragraph eId="306-117__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Two years after the date on which an emergency is declared in the county
+pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-117__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="306-117__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this section. [2013 c.730 s4]
+Note: 306.117 was
+enacted into law by the Legislative Assembly but was not added to or made a
+part of ORS chapter 306 or any series therein by legislative action. See
+Preface to Oregon Revised Statutes for further explanation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_306-120">
+          <num>306.120</num>
+          <heading>Uniform methods of assessment and collection; continuing study of equalization</heading>
+          <subsection eId="306-120__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Issue regulations, bulletins, manuals, instructions and directions to county
+assessors, county property value appeals boards and tax collectors as to the
+methods best calculated to secure uniformity according to law, in the system of
+assessment and collection of taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-120__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Carry on a continuing study with the object of equalizing for the purposes of
+assessment and taxation property values within the counties and between the
+counties. [Amended by 1997 c.541 s94; 2023 c.29 s9]
+Note: The amendments to
+306.120 by section 9, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+306.120. The Department of
+Revenue shall:</p>
+            </content>
+          </subsection>
+          <subsection eId="306-120__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Issue regulations, bulletins, manuals, instructions and directions to county
+assessors, county boards of property tax appeals and tax collectors as to the
+methods best calculated to secure uniformity according to law, in the system of
+assessment and collection of taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-120__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Carry on a continuing study with the object of equalizing for the purposes of
+assessment and taxation property values within the counties and between the
+counties.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-125">
+          <num>306.125</num>
+          <heading>Department of Revenue property tax appraisal programs; maintenance of record systems for assessors and tax collectors; county expense sharing agreements; Assessment and Taxation County Account</heading>
+          <subsection eId="306-125__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue is
+authorized to institute programs for the appraisal of property in counties of
+the state and to make appraisals for the use of county assessors and property
+value appeals boards in assessing property and reviewing assessment rolls, and
+may install, and assist in the preparation and maintenance of, maps, plats or
+standardized record systems, as prescribed by the department, in the offices of
+assessors and tax collectors.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-125__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department and county courts are authorized to enter into agreements for
+the sharing of the expenses of such appraisals and installations including
+salaries and expenses of department employees engaged therein.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-125__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Counties entering into agreements pursuant to this section may pay to the
+Department of Revenue from time to time:</p>
+            </content>
+            <paragraph eId="306-125__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Moneys to be disbursed by the department as part of the county’s share in the
+expenses authorized under this section and agreed to under such agreements; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-125__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Moneys to reimburse the department where department disbursements under such
+agreements, whether from the department’s appropriations from the State General
+Fund or from moneys credited to the Assessment and Taxation County Account,
+have exceeded its proportionate share of expenses and a rebalancing of
+expense-sharing accounts is deemed desirable or necessary.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-125__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="306-125__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All moneys received by the Department of Revenue under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-125__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this
+section shall be immediately turned over to the State Treasurer, who shall
+deposit the moneys in the General Fund to the credit of an account to be known
+as the Assessment and Taxation County Account, and such account hereby is
+continuously appropriated to the Department of Revenue for the purposes of this
+section and ORS 306.117.</p>
+            </content>
+            <paragraph eId="306-125__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Revenue may use the moneys to the credit of the Assessment
+and Taxation County Account, or any part thereof, for expenditures in
+connection with appraisals and installations contracted for, including cash
+advances for travel and living expenses of employees, and including payments to
+any county made to rebalance expense-sharing accounts, from time to time, where
+a county’s disbursements under agreements entered into pursuant to this section
+have exceeded its proportionate share of expenses under such agreement. Any
+moneys received in reimbursement of these cash advances shall be deposited in
+the Assessment and Taxation County Account. Refunds of unexpended receipts may
+be made to the counties. [1953 c.232 s1; 1959 c.115 s1; 1963 c.84 s1; 1985
+c.604 s6; 1997 c.541 s95; 2005 c.94 s29; 2013 c.730 s5; 2023 c.29 s10]
+Note: The amendments to
+306.125 by section 10, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+306.125.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-125__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The
+Department of Revenue is authorized to institute programs for the appraisal of
+property in counties of the state and to make appraisals for the use of county
+assessors and boards of property tax appeals in assessing property and
+reviewing assessment rolls, and may install, and assist in the preparation and
+maintenance of, maps, plats or standardized record systems, as prescribed by
+the department, in the offices of assessors and tax collectors.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-125__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department and county courts are authorized to enter into agreements for
+the sharing of the expenses of such appraisals and installations including
+salaries and expenses of department employees engaged therein.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-125__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Counties entering into agreements pursuant to this section may pay to the
+Department of Revenue from time to time:</p>
+            </content>
+            <paragraph eId="306-125__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Moneys to be disbursed by the department as part of the county’s share in the
+expenses authorized under this section and agreed to under such agreements; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-125__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Moneys to reimburse the department where department disbursements under such
+agreements, whether from the department’s appropriations from the State General
+Fund or from moneys credited to the Assessment and Taxation County Account,
+have exceeded its proportionate share of expenses and a rebalancing of
+expense-sharing accounts is deemed desirable or necessary.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-125__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="306-125__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All moneys received by the Department of Revenue under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-125__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this
+section shall be immediately turned over to the State Treasurer, who shall
+deposit the moneys in the General Fund to the credit of an account to be known
+as the Assessment and Taxation County Account, and such account hereby is
+continuously appropriated to the Department of Revenue for the purposes of this
+section and ORS 306.117.</p>
+            </content>
+            <paragraph eId="306-125__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Revenue may use the moneys to the credit of the Assessment
+and Taxation County Account, or any part thereof, for expenditures in
+connection with appraisals and installations contracted for, including cash
+advances for travel and living expenses of employees, and including payments to
+any county made to rebalance expense-sharing accounts, from time to time, where
+a county’s disbursements under agreements entered into pursuant to this section
+have exceeded its proportionate share of expenses under such agreement. Any
+moneys received in reimbursement of these cash advances shall be deposited in
+the Assessment and Taxation County Account. Refunds of unexpended receipts may
+be made to the counties.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_306-126">
+          <num>306.126</num>
+          <heading>Appraisal of industrial property by department; delegation to county assessors; minimum duration; rules</heading>
+          <subsection eId="306-126__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="306-126__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>“County-appraised industrial property” means:</p>
+              </content>
+              <subparagraph eId="306-126__subsec_1__subsec_a__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>Any unit of industrial property if the improvements of the property have a real
+market value of $1 million or less on the assessment roll for the preceding
+year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="306-126__subsec_1__subsec_a__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>Any unit of industrial property for which the appraisal responsibility has been
+delegated to the county assessor under subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="306-126__subsec_3__subsec_b">
+              <num>(b)</num>
+              <subparagraph eId="306-126__subsec_3__subsec_b__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>“State-appraised industrial property” means any unit of industrial property if
+the improvements of the property have a real market value of more than $1
+million on the assessment roll for the preceding year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="306-126__subsec_3__subsec_b__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>“State-appraised industrial property” does not mean property for which the
+appraisal responsibility has been delegated to a county assessor under
+subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-126__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="306-126__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Revenue shall appraise each state-appraised industrial
+property situated within each county and advise the county assessor of the real
+market value of the property and the property’s net improvements. Except as
+provided in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section, no part of the cost of the
+appraisal shall be borne by the county. The cost of the appraisal shall be
+reimbursed from the County Assessment Function Funding Assistance Account as
+provided under ORS 294.184.</p>
+            </content>
+            <paragraph eId="306-126__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall advise the assessor of the values determined under this
+subsection by a date that is determined to give the assessor sufficient time to
+prepare the assessment roll.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="306-126__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section, upon request of the county
+assessor, the department may delegate to the county assessor the department’s
+responsibility for making the appraisals of state-appraised industrial property
+required under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-126__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <paragraph eId="306-126__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A request by the county assessor under this subsection must be made prior to
+January 1 for the following assessment year and must be accompanied by any
+information required by the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-126__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If responsibility is delegated under this subsection, the entire cost of making
+the appraisals delegated shall be borne by the county.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-126__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>No appeal may be taken from any determination of the department under this
+subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="306-126__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Once the responsibility for making appraisals of a state-appraised industrial
+property is delegated to the county assessor under subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this
+section, the property shall remain a county-appraised industrial property for
+five consecutive assessment years.</p>
+            </content>
+            <paragraph eId="306-126__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After five consecutive assessment years, the industrial property shall remain a
+county-appraised industrial property until the county assessor requests the
+department to resume responsibility for appraising the property. Upon the
+request of the county assessor, the property shall revert to a state-appraised
+industrial property as of the next following assessment year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-126__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The department may adopt any rules necessary to carry out the purposes of this
+section.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-126__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The department may adopt an appraisal schedule that promotes the efficient use
+of its resources.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-132">
+          <num>306.132</num>
+          <heading>Oregon Land Information System Fund</heading>
+          <subsection eId="306-132__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Oregon Land Information System
+Fund is created, separate and distinct from the General Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-132__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Moneys in the Oregon Land Information System Fund are continuously appropriated
+to the Department of Revenue for the purpose of funding a base map system to be
+used in administering the ad valorem property tax system. [1999 c.701 s7]
+Note: 306.132 and
+306.135 were enacted into law by the Legislative Assembly but were not added to
+or made a part of ORS chapter 306 or any series therein by legislative action.
+See Preface to Oregon Revised Statutes for further explanation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-135">
+          <num>306.135</num>
+          <heading>Base map system; Oregon Land Information System Advisory Committee</heading>
+          <subsection eId="306-135__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The
+Department of Revenue shall develop a base map system to facilitate and improve
+the administration of the ad valorem property tax system.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-135__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In developing the base map system, the department shall be advised by an
+advisory committee that is hereby created and that shall be known as the Oregon
+Land Information System Advisory Committee. The advisory committee shall advise
+the department concerning the administrative and public needs related to the
+development of the base map system.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-135__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The advisory committee shall consist of individuals appointed to the committee
+by the Director of the Department of Revenue. [1999 c.701 s8]
+Note: See note under
+306.132.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-150">
+          <num>306.150</num>
+          <heading>Inservice training for assessors and tax collectors</heading>
+          <subsection eId="306-150__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The
+Department of Revenue shall carry on at its own expense a program of inservice
+training for the assessors and tax collectors of the various counties:</p>
+            </content>
+            <paragraph eId="306-150__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By periodically distributing to them bulletins prepared and published by the
+department pertaining to the principles and practices of assessment,
+apportionment, levy and collection of public taxes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-150__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>By periodically distributing to them lists of selected readings in the fields
+of assessment and taxation; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-150__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>By establishing and conducting such classes of instruction for county assessors
+and tax collectors in the principles and practices of assessment and collection
+of public taxes as in the opinion of the Director of the Department of Revenue
+may be expedient and beneficial to the needs of the state and the advancement
+of the tax assessing and tax collecting professions.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-150__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The director may call one meeting each year of the several county assessors and
+may provide for the payment of the necessary traveling expenses of the
+assessors in attending the meeting. [Amended by 1969 c.520 s29; 2003 c.46 s9]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-152">
+          <num>306.152</num>
+          <heading>Training session for property value appeals board pools</heading>
+          <content>
+            <p>Once each year
+the Department of Revenue shall conduct a training session of not more than
+four days’ duration dedicated to the schooling of persons whose names appear in
+the pools described in ORS 309.067 in the functions of the property value
+appeals board. [1955 c.709 s5; 1993 c.270 s24; 1995 c.226 s8; 1997 c.541 s97;
+2023 c.29 s11]
+Note: The amendments to
+306.152 by section 11, chapter 29, Oregon Laws 2023, become operative July 1,
+2024. See section 43, chapter 29, Oregon Laws 2023. The text that is operative
+until July 1, 2024, is set forth for the user’s convenience.
+306.152. Once each year
+the Department of Revenue shall conduct a training session of not more than
+four days’ duration dedicated to the schooling of persons whose names appear in
+the pools described in ORS 309.067 in the functions of the board of property
+tax appeals.</p>
+          </content>
+        </section>
+        <section eId="sec_306-220">
+          <num>306.220</num>
+          <heading>Compliance of public officers with laws and orders affecting property taxes</heading>
+          <subsection eId="306-220__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Every public
+officer shall comply with any lawful order, rule or regulation of the
+Department of Revenue made under ORS 306.115, 308.335 or 309.400.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-220__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Whenever it appears to the department that any public officer or employee whose
+duties relate to the assessment or equalization of assessments of property for
+taxation has failed to comply with any law relating to such duties, or the
+rules of the department made in pursuance thereof, the department, after an informal
+conference on the facts, may direct the public officer or employee to comply
+with such law or rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-220__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the public officer or employee, for a period of 10 days after service on the
+public officer or employee of the department’s direction, neglects or refuses
+to comply therewith, the department may apply to the Oregon Tax Court for an
+order, returnable within five days from the date thereof, to compel the public
+officer or employee to comply with the law or rule, or to show cause why the
+public officer or employee should not be compelled so to do.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-220__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any order issued by the judge pursuant thereto shall be final.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-220__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The remedy provided in this section shall be cumulative and shall not preclude
+the department from exercising any power or rights delegated to it. [Amended by
+1983 c.605 s4; 1993 c.18 s67; 1995 c.650 s69; 1999 c.21 s13]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-245">
+          <num>306.245</num>
+          <heading>Standard forms for tax statement and personal property tax return</heading>
+          <subsection eId="306-245__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In order to
+achieve uniformity in assessment and collection of property taxes throughout
+the state, the Department of Revenue shall prescribe a form for use by counties
+using automated data processing equipment and a form for use by counties not
+using automated data processing equipment for each of the following categories:</p>
+            </content>
+            <paragraph eId="306-245__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax statement referred to in ORS 311.250.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-245__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The personal property tax return referred to in ORS 308.290.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-245__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Counties must use the forms prescribed by the department under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-245__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-245__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In prescribing the forms under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-245__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section, the department
+shall consult with the appropriate county officers and employees and shall take
+into account the equipment available in each county.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-245__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department shall provide and shall bear the cost of each category of form
+described in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-245__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section for each year in which the county
+uses the form prescribed under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-245__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section for the category.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-255">
+          <num>306.255</num>
+          <heading>Information for taxpayers concerning property taxes, appraisals and appeals</heading>
+          <subsection eId="306-255__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The county
+assessor shall provide and make available to taxpayers, upon request, the
+following information:</p>
+            </content>
+            <paragraph eId="306-255__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An explanation of the ad valorem property tax system, including but not limited
+to the manner in which the amount of ad valorem property tax is determined, the
+manner in which the taxpayer’s share of that tax is determined and the manner
+in which the limitations on the amount of that tax is determined.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-255__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An explanation of the methods of appraisal generally and, if of interest to the
+taxpayer, the method or methods of valuation of the type of property with which
+the taxpayer is concerned.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-255__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A general explanation of the manner in which to appeal the value of property
+and a description of the kind of information that may be needed to present an
+appeal.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-255__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Revenue shall prepare written materials concerning each of
+the subjects identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-255__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section and make those
+materials available to the county assessors and to individual taxpayers upon
+request.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-265">
+          <num>306.265</num>
+          <heading>Electronic filing of exemption and special assessment applications; rules</heading>
+          <subsection eId="306-265__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If an
+exemption or special assessment of property that is otherwise subject to
+assessment and taxation requires the filing of a written application with the
+Department of Revenue or a county assessor in order to be granted, the
+department may prescribe rules that permit the filing of the application and
+related written material, including signatures and verifications, by electronic
+means and may prescribe the conditions and requirements that must be met in
+order for an electronic filing to constitute a valid application for exemption
+or special assessment.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-265__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>No application for exemption or special assessment that is filed electronically
+shall constitute a valid application unless the department has identified by
+rule that the exemption or special assessment is one for which electronically
+filed applications may be accepted.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-350">
+          <num>306.350</num>
+          <heading>Legislative findings and declarations</heading>
+          <subsection eId="306-350__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Legislative Assembly finds that:</p>
+            </content>
+            <paragraph eId="306-350__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As a result of section 11, Article XI of the Oregon Constitution, every
+property tax exemption or special assessment granted by the Legislative
+Assembly reduces local resources available for local public services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-350__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Legislative Assembly creates property tax exemptions and special
+assessments, but cities, counties and special districts bear the cost of those
+exemptions in forgone property tax revenues.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-350__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The demand for additional property tax exemptions and special assessments is
+likely to increase.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-350__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Legislative Assembly declares that adverse consequences to cities, counties
+and special districts may be eliminated by:</p>
+            </content>
+            <paragraph eId="306-350__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Providing state funding for new exemptions and special assessments or new
+expansions of existing exemptions and special assessments; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-350__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reducing or eliminating other existing exemptions at the time exemptions are
+created or expanded. [1999 c.821 s1]
+Note: 306.350 to
+306.359 were enacted into law by the Legislative Assembly but were not added to
+or made a part of ORS chapter 306 or any series therein by legislative action.
+See Preface to Oregon Revised Statutes for further explanation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_306-353">
+          <num>306.353</num>
+          <heading>Property tax expenditures to be funded</heading>
+          <subsection eId="306-353__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If, for tax years beginning on or
+after July 1, 2001, a new property tax expenditure is created, or an existing
+property tax expenditure is expanded, 50 percent of the amount of the property
+tax revenues of a city, county or special district that are forgone as a result
+of the new expenditure or expansion shall be funded by amounts appropriated to
+the Property Tax Expenditure Funding Account established under ORS 306.356.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-353__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-353__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section applies:</p>
+            </content>
+            <paragraph eId="306-353__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Only to the operating taxes, as defined in ORS 310.055, of the city, county or
+special district.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-353__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To the extent that the legislative Act creating the new expenditure or
+expansion also did not offset the loss of revenue by repealing or restricting
+one or more property tax expenditures that were in effect for the tax year
+immediately prior to the tax year in which the new expenditure or expansion
+first applies.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-353__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>As used in ORS 306.353 to 306.359:</p>
+            </content>
+            <paragraph eId="306-353__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>“Property tax expenditure” or “expenditure” means a property tax exemption or
+special assessment of the assessed value of property for ad valorem property
+tax purposes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-353__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>“Special district” does not include a taxing district that imposes property
+taxes for the purpose of funding the public school system.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-353__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Legislation that extends the applicability or operative period of a property
+tax expenditure is not subject to the provisions of ORS 306.353 to 306.359.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-353__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Legislation that authorizes a local taxing district to exempt a class of
+property from the taxes of that local taxing district is not subject to the
+provisions of ORS 306.353 to 306.359. [1999 c.821 s2]
+Note: See note under
+306.350.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-356">
+          <num>306.356</num>
+          <heading>Property Tax Expenditure Funding Account</heading>
+          <content>
+            <p>The Property Tax Expenditure
+Funding Account is created in the General Fund. Amounts appropriated to the
+Property Tax Expenditure Funding Account for the biennium are continuously
+appropriated to the Department of Revenue for the purpose of making property
+tax expenditure funding payments as provided in ORS 306.359. [1999 c.821 s3]
+Note: See note under
+306.350.</p>
+          </content>
+        </section>
+        <section eId="sec_306-359">
+          <num>306.359</num>
+          <heading>Procedures for determining property tax expenditure funding payments</heading>
+          <subsection eId="306-359__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="306-359__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As soon as
+is practicable after the end of the regular session of the Legislative
+Assembly, the Department of Revenue shall determine the new expenditures and
+expansions that are subject to the funding requirements of ORS 306.353.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-359__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an expansion of an existing property tax expenditure is subject to the
+funding requirements of ORS 306.353, the department shall calculate a cost
+adjustment factor. The factor shall be a fraction, the numerator of which is
+the estimated statewide amount of forgone property taxes attributable to the
+expenditure for the year for which the determination is being made minus the
+estimated statewide amount of forgone property taxes attributable to the
+expenditure for the tax year immediately prior to the expansion. The denominator
+shall be the estimated statewide amount of forgone property taxes attributable
+to the expenditure for the year for which the determination is being made.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-359__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall distribute to each county assessor a list of:</p>
+              </content>
+              <subparagraph eId="306-359__subsec_1__subsec_c__subsec_A">
+                <num>(A)</num>
+                <content>
+                  <p>The expenditures that are subject to the funding requirements of ORS 306.353
+because the expenditures are new expenditures; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="306-359__subsec_1__subsec_c__subsec_B">
+                <num>(B)</num>
+                <content>
+                  <p>The expenditures that are subject to the funding requirements of ORS 306.353
+because the expenditures are newly expanded expenditures, along with each newly
+expanded expenditure’s corresponding cost adjustment factor.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-359__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each county assessor shall estimate the amount of forgone property taxes of the
+county and of each city and special district in the county for each expenditure
+listed by the department. If a cost adjustment factor is applicable to the
+expenditure, the county assessor shall multiply the forgone property tax
+attributable to the expenditure by the expenditure’s cost adjustment factor.
+After taking into account cost adjustment factors, the county assessor shall
+determine the total amount of forgone property taxes from expenditures listed
+by the department in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-359__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="306-359__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of this section and shall certify the
+total amount so determined for the county and for each city and special
+district in the county to the department. Certification shall be made on or
+before October 25 of the tax year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-359__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="306-359__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="306-359__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this section, the department shall pay 50
+percent of the amounts certified by the county assessor to the county and to
+the cities and special districts in the county.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-359__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If payments are being made for the first fiscal year of the biennium, the
+department shall use no more than 50 percent of the Property Tax Expenditure
+Funding Account balance to make payments under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-359__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the amount of moneys available to make payments under this section is less
+than the total amount being certified by all county assessors, the payments
+made under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-359__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this section shall be proportionally reduced so
+that the state does not accrue a debt in excess of the amount available for
+payment. [1999 c.821 s4]
+Note: See note under
+306.350.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-805">
+          <num>306.805</num>
+          <heading>Service of orders of department</heading>
+          <subsection eId="306-805__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Orders of the Department of Revenue
+in property tax cases shall be served by mailing a copy by certified mail to
+each taxpayer directly affected, or to the attorney or authorized
+representative of the taxpayer, except that whenever the number of taxpayers
+whose property is affected by such order exceeds three, the department may, in
+its discretion, give notice of the order in either of the following ways:</p>
+            </content>
+            <paragraph eId="306-805__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Mail to each taxpayer a notice of the order, which notice shall contain a
+general statement as to the effect of the order, the classes or types of
+property affected and a description of the general area affected, as provided
+by ORS 308.240; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-805__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Cause a notice of the order as described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="306-805__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this subsection to
+be published in some newspaper of general circulation in the county in which
+the property is located, in two consecutive weekly publications, the first
+publication to be made within 10 days of the date of the order. Publication
+shall be deemed complete five days after the last publication and shall be
+sufficient service of the order on each and every person whose property is
+affected. Any period of time within which such person may appeal from the order
+shall commence running on the day following the completion of publication.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="306-805__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All other orders of the department shall be served by mailing a certified copy
+to the taxpayer, executor or other person or persons directly affected by the
+order, or to the attorney or authorized representative of the taxpayer,
+executor or other affected person. [Formerly 306.235; 1977 c.870 s34; 1995
+c.293 s2]</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_306-815">
+          <num>306.815</num>
+          <heading>Tax on transfer of real property prohibited; exceptions</heading>
+          <subsection eId="306-815__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A city,
+county, district or other political subdivision or municipal corporation of
+this state shall not impose, by ordinance or other law, a tax or fee upon the
+transfer of a fee estate in real property, or measured by the consideration paid
+or received upon transfer of a fee estate in real property.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-815__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A tax or fee upon the transfer of a fee estate in real property does not
+include any fee or charge that becomes due or payable at the time of transfer
+of a fee estate in real property, unless that fee or charge is imposed upon the
+right, privilege or act of transferring title to real property.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-815__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-815__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section does not apply to any fee established under ORS
+203.148.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-815__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-815__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section does not apply to any tax if the ordinance or
+other law imposing the tax is in effect and operative on March 31, 1997.</p>
+            </content>
+          </subsection>
+          <subsection eId="306-815__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="306-815__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this section does not apply to any tax or fee that is imposed
+upon the transfer of a fee estate in real property if the fee that is imposed
+under ORS 205.323, for the recording or filing of the instrument conveying the
+real property being transferred, is less than $107.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
